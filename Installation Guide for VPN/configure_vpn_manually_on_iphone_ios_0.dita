@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="configure_vpn_manually_on_iphone_ios_0">
+    <title>Configure VPN Manually on iPhone (iOS)</title>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>Open VPN Settings</cmd>
+                <substeps id="substeps_tvx_gyp_m2c">
+                    <substep>
+                        <cmd>Go to <b>Settings</b> on your iPhone.</cmd>
+                        <info><image href="images/Image_20250225_161547_170.png"
+                                id="image_m2q_cfq_m2c" scale="10" align="center"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>General</b> and then select <b>VPN &amp; Device
+                            Management</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>VPN</b> and then <b>Add VPN Configuration</b>.</cmd>
+                        <info>
+                            <fig id="fig_pn1_52q_m2c">
+                                <image href="images/Image_20250225_161547_083.png"
+                                    id="image_er3_52q_m2c" scale="10" align="center"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Enter the following information:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Tap <b>Type</b> and choose <b>L2TP, IKEv2, or IPSec</b> (as provided by
+                            your VPN service).</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter VPN Details</cmd>
+                        <info>
+                            <ul id="ul_qh2_tqp_m2c">
+                                <li>Server: Enter the VPN server address (provided by your VPN
+                                    provider).</li>
+                                <li>Remote ID: Enter the identifier given by your provider (for
+                                    IKEv2).</li>
+                                <li>Username &amp; Password: Use your VPN account credentials.</li>
+                                <li>Shared Secret: Enter the key (if required for L2TP/IPSec).</li>
+                            </ul>
+                        </info>
+                        <info>
+                            <fig id="fig_lhs_x2q_m2c">
+                                <image href="images/Image_20250225_161547_108.png"
+                                    id="image_jhd_y2q_m2c" scale="10" align="center"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Save and Connect</cmd>
+                <substeps id="substeps_zbz_byp_m2c">
+                    <substep>
+                        <cmd>Tap <b>Done</b> to save the configuration.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Toggle <b>VPN ON</b> to connect.</cmd>
+                        <stepresult>You should now see a VPN icon in the status bar when
+                            connected.</stepresult>
+                    </substep>
+                </substeps>
+                <info>
+                    <fig id="fig_h2x_z2q_m2c">
+                        <image href="images/Image_20250225_161547_140.png" id="image_id4_1fq_m2c"
+                            scale="10" align="center"/>
+                    </fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

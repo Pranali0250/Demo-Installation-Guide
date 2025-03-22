@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="when_vpn_is_used">
+    <title>When VPN is used</title>
+    <conbody>
+        <ol id="ol_jkt_mzp_m2c">
+            <li><b>Privacy &amp; Anonymity:</b> Hides your IP and encrypts your data.</li>
+            <li><b>Security:</b>  Protects against hackers, especially on public Wi-Fi.</li>
+            <li><b>Bypass Restrictions:</b>  Access blocked websites and geo-restricted
+                content.</li>
+            <li><b>Remote Access:</b> Securely connect to work or home networks.</li>
+            <li><b>Avoid ISP Throttling:</b>  Prevents slowdowns from your internet provider.</li>
+            <li><b>Safe Torrenting &amp; Gaming:</b> Protects identity and reduces lag.</li>
+        </ol>
+    </conbody>
+</concept>

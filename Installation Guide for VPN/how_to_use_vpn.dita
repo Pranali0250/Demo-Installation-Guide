@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_use_vpn">
+    <title>How to use VPN</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Choose a reliable VPN provider, such as NordVPN, ExpressVPN, or
+                    ProtonVPN.</cmd>
+            </step>
+            <step>
+                <cmd>Download and install the VPN application on your device. Supported platforms
+                    include Windows, macOS, Android, and iOS</cmd>
+            </step>
+            <step>
+                <cmd>Launch the application and sign in using your VPN account credentials.</cmd>
+            </step>
+            <step>
+                <cmd>Choose a VPN server location based on your preference or requirements.</cmd>
+            </step>
+            <step>
+                <cmd>Turn on security features such as the kill switch, DNS leak protection, and
+                    encryption settings if available.</cmd>
+            </step>
+        </steps>
+        <result id="result_g1s_syp_m2c">Once connected, your internet traffic is encrypted, and your
+            IP is hidden.</result></taskbody>
+</task>

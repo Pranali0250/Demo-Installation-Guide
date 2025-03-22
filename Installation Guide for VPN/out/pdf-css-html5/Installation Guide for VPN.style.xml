@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?><css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop" xmlns:css="http://www.w3.org/1998/CSS"><css:pages><css:page><css:footnote><css:property name="border-top-style" value="solid"/><css:property name="border-top-color" value="black"/><css:property name="border-top-width" value="thin"/><css:property name="padding-top" value="8pt"/></css:footnote></css:page><css:page><css:property name="padding-top" value="0.2em"/><css:property name="padding-bottom" value="0.2em"/><css:property name="width" value="8.5in"/><css:property name="height" value="11.0in"/><css:property name="margin-top" value="1in"/><css:property name="margin-right" value="1in"/><css:property name="margin-left" value="1in"/><css:property name="margin-bottom" value="1in"/></css:page><css:page><css:property name="font-size" value="8pt"/></css:page><css:page><css:property name="font-size" value="10pt"/><css:property name="font-family" value="Roboto , sans-serif"/></css:page><css:page pseudo="left "><css:top-left><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-left></css:page><css:page pseudo="right "><css:top-right><css:property name="content"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:property></css:top-right></css:page><css:page pseudo="blank "><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="front-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="table-of-contents"><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right></css:page><css:page name="index"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-left><css:property name="content"/></css:top-left><css:top-right><css:property name="content"/></css:top-right><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:top-center><css:property name="content"/></css:top-center><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner><css:bottom-center><css:property name="content"><css:counter format="lower-alpha" name="page"/></css:property><css:property name="font-size" value="11pt"/></css:bottom-center></css:page><css:page name="index"><css:property name="column-count" value="2"/><css:property name="column-fill" value="auto"/></css:page><css:page name="chapter"/><css:page name="matter-page"><css:top-left-corner><css:property name="content"/></css:top-left-corner><css:top-center><css:property name="content"/></css:top-center><css:top-right-corner><css:property name="content"/></css:top-right-corner><css:bottom-left-corner><css:property name="content"/></css:bottom-left-corner><css:bottom-left><css:property name="content"/></css:bottom-left><css:bottom-center><css:property name="content"/></css:bottom-center><css:bottom-right><css:property name="content"/></css:bottom-right><css:bottom-right-corner><css:property name="content"/></css:bottom-right-corner></css:page><css:page name="portrait-page"><css:property name="orientation" value="portrait"/></css:page><css:page name="table-of-contents" pseudo="left "><css:top-left><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="table-of-contents" pseudo="right "><css:top-right><css:property name="content"><css:string name="toc-header" position="first"/><css:text> | </css:text><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="matter-page" pseudo="left "><css:top-left><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-left></css:page><css:page name="matter-page" pseudo="right "><css:top-right><css:property name="content"><css:counter format="lower-roman" name="page"/></css:property></css:top-right></css:page><css:page name="landscape-page" pseudo="right "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-bottom><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="right"/></css:right-bottom></css:page><css:page name="landscape-page" pseudo="left "><css:property name="orientation" value="landscape"/><css:top-left><css:property name="content"/></css:top-left><css:top-center><css:property name="content"/></css:top-center><css:top-right><css:property name="content"/></css:top-right><css:right-top><css:property name="content"><css:reference-orientation-container-pmb reference-orientation="270"><css:string name="maptitle" position="first"/><css:string name="parttitle" position="first"/><css:string name="chaptertitle" position="first"/><css:string name="sectiontitle" position="first"/><css:text> | </css:text><css:counter format="decimal" name="page"/></css:reference-orientation-container-pmb></css:property><css:property name="vertical-align" value="middle"/><css:property name="text-align" value="left"/></css:right-top></css:page><css:page name="table-of-contents" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="table-of-contents" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page><css:page name="chapter" pseudo="first left "><css:top-left><css:property name="content"/></css:top-left></css:page><css:page name="chapter" pseudo="first right "><css:top-right><css:property name="content"/></css:top-right></css:page></css:pages><css:page-sequence initial-page-number="1" page="front-page"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap">
+    <head css:border-bottom-color="white" css:border-bottom-style="solid" css:border-bottom-width="1pt" css:border-left-color="white" css:border-left-style="solid" css:border-left-width="1pt" css:border-right-color="white" css:border-right-style="solid" css:border-right-width="1pt" css:border-top-color="white" css:border-top-style="solid" css:border-top-width="1pt" css:display="none" css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em" css:padding-top="1em">
+        <meta content="text/html; charset=UTF-8" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" http-equiv="Content-Type"/>
+        <meta content="(C) Copyright 2025" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+        <meta content="(C) Copyright 2025" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.rights.owner"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css" rel="stylesheet" type="text/css"/>
+        <link css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:link="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" href="file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css" rel="stylesheet" type="text/css"/>
+        <meta content="DITA-OT" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="generator"/>
+        <meta content="map" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.type"/>
+        <meta content="HTML5" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.format"/>
+        <meta content="en" css:background-color="rgb(238 , 238 , 255)" css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid" css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)" css:border-left-style="solid" css:border-left-width="1px" css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid" css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)" css:border-top-style="solid" css:border-top-width="1px" css:display="none" css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px" css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.language"/>
+        <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid" css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none" css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"/>
+    </head>
+    <body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%">
+        <div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px">
+            <div class="wh_topic_body" css:display="block">
+                <div class="wh_topic_content" css:display="block" css:margin-bottom="80px">
+                    <div xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en">
+                        <div class="- front-page/front-page front-page" css:display="block"><css:before css:display="block" css:height="0.1px"><css:text/></css:before><div class="- front-page/front-page-title front-page-title" css:display="block" css:font-size="2em" css:font-weight="bold" css:line-height="1.5em" css:margin-top="3in" css:text-align="center">
+                                <div class="- topic/title title" css:bookmark-level="1" css:display="block" css:page-break-after="avoid"><css:string-set name="maptitle"><css:content source="text"/></css:string-set><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><css:oxy-pdf-meta-title><css:content source="text"/></css:oxy-pdf-meta-title></div>
+                            </div></div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" page="table-of-contents"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><div class="- toc/toc toc" css:display="block">
+                            <div class="- toc/title title" css:bookmark-level="1" css:display="block" css:font-size="2em" css:margin-bottom="1em" empty="true"><css:string-set name="toc-header"><css:text>Contents</css:text></css:string-set><css:before css:display="inline"><css:text>Contents</css:text></css:before><css:bookmark-label><css:content source="before"/></css:bookmark-label></div>
+                            <div class="- topic/title title" css:display="none" css:page-break-after="avoid"/>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_1" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="introduction">
+                                    <div appid="introduction" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_1" css:text-align-last="justify" href="#unique_1"><css:before css:display="inline" css:link="#unique_1"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="1"/><css:text/><css:text>. </css:text></css:before>Introduction<css:after css:display="inline" css:link="#unique_1"><css:leader pattern="."/><css:target-counter url-fragment="unique_1"/></css:after></div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_2" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="what_is_vpn">
+                                        <div appid="what_is_vpn" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_2" css:text-align-last="justify" href="#unique_2"><css:before css:display="inline" css:link="#unique_2"/>What
+                                            is
+                                            VPN<css:after css:display="inline" css:link="#unique_2"><css:leader pattern="."/><css:target-counter url-fragment="unique_2"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_3" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="why_vpn_is_used">
+                                        <div appid="why_vpn_is_used" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_3" css:text-align-last="justify" href="#unique_3"><css:before css:display="inline" css:link="#unique_3"/>Why
+                                            VPN is
+                                            used<css:after css:display="inline" css:link="#unique_3"><css:leader pattern="."/><css:target-counter url-fragment="unique_3"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_4" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="how_to_use_vpn">
+                                        <div appid="how_to_use_vpn" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_4" css:text-align-last="justify" href="#unique_4"><css:before css:display="inline" css:link="#unique_4"/>How
+                                            to use
+                                            VPN<css:after css:display="inline" css:link="#unique_4"><css:leader pattern="."/><css:target-counter url-fragment="unique_4"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_5" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="when_vpn_is_used">
+                                        <div appid="when_vpn_is_used" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_5" css:text-align-last="justify" href="#unique_5"><css:before css:display="inline" css:link="#unique_5"/>When
+                                            VPN is
+                                            used<css:after css:display="inline" css:link="#unique_5"><css:leader pattern="."/><css:target-counter url-fragment="unique_5"/></css:after></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_6" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="prerequisites">
+                                    <div appid="prerequisites" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_6" css:text-align-last="justify" href="#unique_6"><css:before css:display="inline" css:link="#unique_6"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="2"/><css:text/><css:text>. </css:text></css:before>Prerequisites<css:after css:display="inline" css:link="#unique_6"><css:leader pattern="."/><css:target-counter url-fragment="unique_6"/></css:after></div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_7" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="types_security_aspects_of_vpn">
+                                    <div appid="types_security_aspects_of_vpn" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_7" css:text-align-last="justify" href="#unique_7"><css:before css:display="inline" css:link="#unique_7"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="3"/><css:text/><css:text>. </css:text></css:before>Types
+                                        &amp; Security aspects of
+                                        VPN<css:after css:display="inline" css:link="#unique_7"><css:leader pattern="."/><css:target-counter url-fragment="unique_7"/></css:after></div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_8" type="concept">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="security_aspects_of_vpn">
+                                        <div appid="security_aspects_of_vpn" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_8" css:text-align-last="justify" href="#unique_8"><css:before css:display="inline" css:link="#unique_8"/>Security
+                                            Aspects of
+                                            VPN<css:after css:display="inline" css:link="#unique_8"><css:leader pattern="."/><css:target-counter url-fragment="unique_8"/></css:after></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_9" is-chapter="true" type="task">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="install_vpn_on_laptop_phone">
+                                    <div appid="install_vpn_on_laptop_phone" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_9" css:text-align-last="justify" href="#unique_9"><css:before css:display="inline" css:link="#unique_9"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="4"/><css:text/><css:text>. </css:text></css:before>Install
+                                        VPN on
+                                        Laptop/Phone<css:after css:display="inline" css:link="#unique_9"><css:leader pattern="."/><css:target-counter url-fragment="unique_9"/></css:after></div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_10" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="install_vpn_on_phone">
+                                        <div appid="install_vpn_on_phone" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_10" css:text-align-last="justify" href="#unique_10"><css:before css:display="inline" css:link="#unique_10"/>Install
+                                            VPN on
+                                            Phone<css:after css:display="inline" css:link="#unique_10"><css:leader pattern="."/><css:target-counter url-fragment="unique_10"/></css:after></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_11" is-chapter="true" type="task">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="configure_vpn_settings_verify">
+                                    <div appid="configure_vpn_settings_verify" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_11" css:text-align-last="justify" href="#unique_11"><css:before css:display="inline" css:link="#unique_11"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="5"/><css:text/><css:text>. </css:text></css:before>Configure
+                                        VPN
+                                        settings/verify<css:after css:display="inline" css:link="#unique_11"><css:leader pattern="."/><css:target-counter url-fragment="unique_11"/></css:after></div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_12" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="manually_configuring_a_vpn_for_macos">
+                                        <div appid="manually_configuring_a_vpn_for_macos" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_12" css:text-align-last="justify" href="#unique_12"><css:before css:display="inline" css:link="#unique_12"/>Configuring
+                                            a VPN For
+                                            macOS<css:after css:display="inline" css:link="#unique_12"><css:leader pattern="."/><css:target-counter url-fragment="unique_12"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_13" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="configure_vpn_manually_on_android">
+                                        <div appid="configure_vpn_manually_on_android" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_13" css:text-align-last="justify" href="#unique_13"><css:before css:display="inline" css:link="#unique_13"/>Configuring
+                                            VPN on
+                                            Android<css:after css:display="inline" css:link="#unique_13"><css:leader pattern="."/><css:target-counter url-fragment="unique_13"/></css:after></div>
+                                    </div>
+                                </div>
+                                <div class="- map/topicref topicref" css:display="block" css:font-weight="normal" css:margin-bottom="0.5em" css:margin-left="2em" css:margin-top="0.5em" href="#unique_14" type="task">
+                                    <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="configure_vpn_manually_on_iphone_ios_0">
+                                        <div appid="configure_vpn_manually_on_iphone_ios_0" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                        <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_14" css:text-align-last="justify" href="#unique_14"><css:before css:display="inline" css:link="#unique_14"/>Configure
+                                            VPN Manually on iPhone
+                                            (iOS)<css:after css:display="inline" css:link="#unique_14"><css:leader pattern="."/><css:target-counter url-fragment="unique_14"/></css:after></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_15" is-chapter="true" type="concept">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="verifying_the_vpn_connection">
+                                    <div appid="verifying_the_vpn_connection" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_15" css:text-align-last="justify" href="#unique_15"><css:before css:display="inline" css:link="#unique_15"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="6"/><css:text/><css:text>. </css:text></css:before>Verifying
+                                        the VPN
+                                        Connection<css:after css:display="inline" css:link="#unique_15"><css:leader pattern="."/><css:target-counter url-fragment="unique_15"/></css:after></div>
+                                </div>
+                            </div>
+                            <div class="- map/topicref topicref" css:display="block" css:font-weight="bold" css:margin-bottom="0.5em" css:margin-left="0" css:margin-top="0.5em" href="#unique_16" is-chapter="true" type="troubleshooting">
+                                <div class="- map/topicmeta topicmeta" css:display="block" data-topic-id="common_troubleshooting_issues">
+                                    <div appid="common_troubleshooting_issues" class="- topic/resourceid resourceid" css:display="none" oxy-source="topic"/>
+                                    <div class="- topic/navtitle navtitle" css:display="block" css:link="#unique_16" css:text-align-last="justify" href="#unique_16"><css:before css:display="inline" css:link="#unique_16"><css:text>Chapter </css:text><css:counter name="toc-chapter" value="7"/><css:text/><css:text>. </css:text></css:before>Common
+                                        Troubleshooting Issues
+                                        <css:after css:display="inline" css:link="#unique_16"><css:leader pattern="."/><css:target-counter url-fragment="unique_16"/></css:after></div>
+                                </div>
+                            </div>
+                        </div>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title1" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_1" is-chapter="true" nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title1"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="1"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="1"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Introduction</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">A
+                                    Virtual Private Network (VPN) enhances online privacy and
+                                    security by encrypting internet traffic and masking the user’s
+                                    IP address. This guide provides step-by-step instructions for
+                                    installing and configuring a VPN on various devices, ensuring a
+                                    secure and seamless browsing experience. Whether you're setting
+                                    up a VPN for personal privacy, remote work, or accessing
+                                    restricted content, this guide will help you get started quickly
+                                    and efficiently.</p>
+                            </div>
+                            <article aria-labelledby="ariaid-title2" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_2" nd:nd-id="what_is_vpn" oid="what_is_vpn" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title2"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">What is VPN</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">A <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN</strong> (Virtual Private
+                                        Network) is a technology that creates a secure, encrypted
+                                        connection over a less secure network—typically the
+                                        internet. </p>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title3" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_3" nd:nd-id="why_vpn_is_used" oid="why_vpn_is_used" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title3"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Why VPN is used</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <div class="- topic/p p" css:display="block" css:margin-top="1em">VPNs (Virtual Private Networks) are
+                                        used for several important purposes, including security,
+                                        privacy, and access control. Here are the key reasons why
+                                        VPNs are used:<ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_3_Connect_42_ol_i4p_z43_m2c" nd:nd-id="ol_i4p_z43_m2c">
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Security &amp; Encryption:</strong><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_ul_upp_y43_m2c" nd:nd-id="ul_upp_y43_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">VPNs encrypt internet traffic, making it
+                                                  difficult for hackers, ISPs, or government
+                                                  agencies to monitor online activities.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Essential for securing data when using public
+                                                  Wi-Fi networks (e.g., in cafes, airports,
+                                                  hotels).</li>
+                                                </ul></li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Privacy &amp; Anonymity:</strong><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_ul_vqf_dp3_m2c" nd:nd-id="ul_vqf_dp3_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Hides the user's real IP address, preventing
+                                                  websites, advertisers, and ISPs from tracking
+                                                  online activity.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Prevents data collection and profiling by
+                                                  third-party companies.</li>
+                                                </ul></li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">
+                                                  Secure Remote Access :</strong><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_ul_fwl_hp3_m2c" nd:nd-id="ul_fwl_hp3_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Enables employees to securely connect to company
+                                                  networks from anywhere.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Ensures encrypted data transfer between remote
+                                                  workers and company servers.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Prevents cyberattacks like man-in-the-middle
+                                                  (MITM) attacks.</li>
+                                                </ul></li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Safe
+                                                  P2P File Sharing &amp; Torrenting:</strong><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_ul_ypp_y43_m2c" nd:nd-id="ul_ypp_y43_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Hides IP addresses while downloading torrents,
+                                                  protecting users from copyright trolls and legal
+                                                  actions.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Prevents ISPs from throttling internet speeds for
+                                                  P2P activities.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Some ISPs throttle (slow down) internet speeds
+                                                  for streaming or gaming.</li>
+                                                  <li class="- topic/li li" css:display="list-item">A VPN encrypts traffic, preventing ISPs from
+                                                  detecting and throttling specific activities.</li>
+                                                </ul></li>
+                                            <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Secure
+                                                  Communication:</strong><ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_3_Connect_42_ul_bqp_y43_m2c" nd:nd-id="ul_bqp_y43_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Encrypts VoIP (Voice over IP) calls, preventing
+                                                  eavesdropping.</li>
+                                                  <li class="- topic/li li" css:display="list-item">Ensures private and secure communication for
+                                                  journalists, activists, and whistleblowers.</li>
+                                                </ul></li>
+                                        </ol></div>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title4" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_4" nd:nd-id="how_to_use_vpn" oid="how_to_use_vpn" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title4"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">How to use VPN</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose a reliable VPN
+                                                  provider, such as NordVPN, ExpressVPN, or
+                                                  ProtonVPN.</span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Download and install the VPN
+                                                  application on your device. Supported platforms
+                                                  include Windows, macOS, Android, and iOS</span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Launch the application and
+                                                  sign in using your VPN account credentials.</span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose a VPN server location
+                                                  based on your preference or requirements.</span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Turn on security features
+                                                  such as the kill switch, DNS leak protection, and
+                                                  encryption settings if available.</span>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                    <section class="- topic/section task/result section result" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_4_Connect_42_result_g1s_syp_m2c" nd:nd-id="result_g1s_syp_m2c">Once connected, your internet
+                                        traffic is encrypted, and your IP is hidden.</section>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title5" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_5" nd:nd-id="when_vpn_is_used" oid="when_vpn_is_used" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title5"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">When VPN is used</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_5_Connect_42_ol_jkt_mzp_m2c" nd:nd-id="ol_jkt_mzp_m2c">
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Privacy &amp;
+                                                Anonymity:</strong> Hides your IP and encrypts your
+                                            data.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Security:</strong> Protects
+                                            against hackers, especially on public Wi-Fi.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Bypass Restrictions:</strong>
+                                            Access blocked websites and geo-restricted content.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Remote Access:</strong>
+                                            Securely connect to work or home networks.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Avoid ISP
+                                                Throttling:</strong> Prevents slowdowns from your
+                                            internet provider.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Safe Torrenting &amp;
+                                                Gaming:</strong> Protects identity and reduces
+                                            lag.</li>
+                                    </ol>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title6" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_6" is-chapter="true" nd:nd-id="prerequisites" oid="prerequisites" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title6"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="2"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="2"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Prerequisites</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_6_Connect_42_ol_wn4_jq3_m2c" nd:nd-id="ol_wn4_jq3_m2c">
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Stable Internet
+                                            Connection:</strong> Required for downloading and
+                                        configuring the VPN.</li>
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Compatible Device:</strong> VPN
+                                        software should support your operating system (Windows,
+                                        macOS, Linux, Android, iOS, Router).</li>
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN Subscription or Self-Hosted
+                                            Server:</strong> Choose a VPN provider (e.g., NordVPN,
+                                        ExpressVPN) or set up your own (OpenVPN, WireGuard).</li>
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Administrative Access:</strong>
+                                        Needed to install software and change network settings.</li>
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Firewall &amp; Security
+                                            Configuration:</strong> Ensure your firewall allows VPN
+                                        connections.</li>
+                                    <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Login Credentials or VPN
+                                            Configuration File :</strong> Provided by your VPN
+                                        provider or manually configured for self-hosted setups.</li>
+                                </ol>
+                            </div>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title7" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7" is-chapter="true" nd:nd-id="types_security_aspects_of_vpn" oid="types_security_aspects_of_vpn" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title7"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="3"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="3"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Types &amp; Security aspects of
+                                VPN</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <section class="- topic/section section" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_7_Connect_42_section_gf5_4q3_m2c" nd:nd-id="section_gf5_4q3_m2c">
+                                    <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><strong class="+ topic/ph hi-d/b ph b" css:display="inline">Types of VPN</strong></h2>
+                                    <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_7_Connect_42_ol_hf5_4q3_m2c" nd:nd-id="ol_hf5_4q3_m2c">
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Remote Access VPN:</strong>
+                                            Allows users to securely connect to a private network
+                                            (e.g., corporate VPN for remote workers).</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Site-to-Site VPN:</strong>
+                                            Connects multiple office locations securely over the
+                                            internet.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Client-Based VPN:</strong>
+                                            Requires software installation on the user’s device
+                                            (e.g., OpenVPN, WireGuard).</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Network-Based VPN:</strong>
+                                            Configured at the router level for all devices on a
+                                            network.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">SSL VPN:</strong> Uses a web
+                                            browser for secure access without installing
+                                            software.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Cloud VPN:</strong> Hosted on
+                                            cloud platforms for secure access to cloud-based
+                                            resources.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Peer-to-Peer (P2P)
+                                                VPN:</strong> Decentralized VPN where users route
+                                            traffic through each other’s devices (e.g., Hola
+                                            VPN).</li>
+                                    </ol>
+                                </section>
+                            </div>
+                            <article aria-labelledby="ariaid-title8" class="- topic/topic concept/concept topic concept nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_8" nd:nd-id="security_aspects_of_vpn" oid="security_aspects_of_vpn" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title8"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Security Aspects of VPN</span></h2>
+                                <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_8_Connect_42_ol_axz_xzp_m2c" nd:nd-id="ol_axz_xzp_m2c">
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Encryption:</strong> Protects
+                                            data using protocols like AES-256, ChaCha20, and TLS
+                                            encryption.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Tunneling Protocols:</strong>
+                                            Secure communication using OpenVPN, WireGuard, IPSec,
+                                            L2TP, etc.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">No-Log Policy :</strong>
+                                            Ensures VPN providers do not store browsing history or
+                                            user data.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Kill Switch :</strong>
+                                            Disconnects the internet if the VPN drops, preventing IP
+                                            leaks.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">DNS &amp; IP Leak Protection
+                                                :</strong> Prevents exposure of real IP and DNS
+                                            queries.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Multi-Factor Authentication
+                                                (MFA):</strong> Adds extra security for user
+                                            logins.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Split Tunneling :</strong>
+                                            Allows users to route some traffic through VPN while
+                                            keeping other traffic direct.</li>
+                                        <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">DDoS &amp; Malware Protection
+                                                :</strong> Some VPNs offer protection against cyber
+                                            threats.</li>
+                                    </ol>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title9" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_9" is-chapter="true" nd:nd-id="install_vpn_on_laptop_phone" oid="install_vpn_on_laptop_phone" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title9"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="4"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="4"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Install VPN on Laptop/Phone</span></h1>
+                            <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Manually Setting
+                                        Up a VPN on Laptop</p>
+                                </section>
+                                <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                    <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_9_Connect_42_ol_qgg_lwn_m2c" nd:nd-id="ol_qgg_lwn_m2c">
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open System Preferences: </span>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_9_Connect_42_ul_mby_mwn_m2c" nd:nd-id="ul_mby_mwn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Click on <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">System
+                                                  Settings Network</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Click
+                                                  the + button to add a new
+                                                  connection.</span></span>
+                                                  </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter VPN Configuration:
+                                            </span>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect .</span>
+                                        </li>
+                                    </ol>
+                                </section>
+                            </div>
+                            <article aria-labelledby="ariaid-title10" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_10" nd:nd-id="install_vpn_on_phone" oid="install_vpn_on_phone" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title10"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Install VPN on Phone</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Manually
+                                            Setting Up a VPN</p>
+                                    </section>
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open VPN Settings:</span>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px">
+                                                  <li class="- topic/li li" css:display="list-item">Go to<span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Settings </span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Network
+                                                  &amp; Internet </span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">
+                                                  VPN.</span></span></li>
+                                                  </ul>
+                                                </div>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Add a New VPN
+                                                  Connection:</span>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect</span>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title11" break-before="true" class="- topic/topic task/task topic task nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_11" is-chapter="true" nd:nd-id="configure_vpn_settings_verify" oid="configure_vpn_settings_verify" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title11"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="5"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="5"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Configure VPN settings/verify</span></h1>
+                            <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                    <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em">Configuring a VPN
+                                        For Windows</p>
+                                </section>
+                                <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                    <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open VPN Settings:</span>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_xnw_byn_m2c" nd:nd-id="ul_xnw_byn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Go to<span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Settings </span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">
+                                                  Network &amp; Internet</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt; </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">
+                                                  VPN</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Add a
+                                                  VPN connection.</span></span>
+                                                  </li>
+                                                </ul>
+                                                <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_11_Connect_42_fig_v3w_mdq_m2c" nd:nd-id="fig_v3w_mdq_m2c">
+                                                  <div class="imagecenter break" css:display="block" css:text-align="center">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image imagecenter break" css:display="block" css:height="369px" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:width="682px" dita-ot:image-height="739" dita-ot:image-width="1365" height="369" href="file:/D:/Installation%20Guide%20for%20VPN/images/1.png" id="unique_11_Connect_42_image_v4h_ndq_m2c" nd:nd-id="image_v4h_ndq_m2c" placement="break" scale="50" src="file:/D:/Installation%20Guide%20for%20VPN/images/1.png" width="682"><css:content-on-element><css:uri extracted-image-height="572" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/1.png"/></css:content-on-element></img>
+                                                  </div>
+                                                </figure>
+                                                <div class="imagecenter break" css:display="block" css:text-align="center">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image imagecenter break" css:display="block" css:height="78px" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:width="552px" dita-ot:image-height="157" dita-ot:image-width="1104" height="78" href="file:/D:/Installation%20Guide%20for%20VPN/images/2.png" id="unique_11_Connect_42_image_kf3_rdq_m2c" nd:nd-id="image_kf3_rdq_m2c" placement="break" scale="50" src="file:/D:/Installation%20Guide%20for%20VPN/images/2.png" width="552"><css:content-on-element><css:uri extracted-image-height="163" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/2.png"/></css:content-on-element></img>
+                                                </div>
+                                            </div>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter VPN Details:</span>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_ynw_byn_m2c" nd:nd-id="ul_ynw_byn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  Provider</strong>: Windows (Built-in).</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Connection Name</strong>: (Any name).</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Server
+                                                  Address</strong>: (From your VPN provider).</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  Type</strong>: Choose <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">L2TP/IPSec, PPTP, or IKEv2/IPSec</strong>.</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Sign-in Info</strong>: Enter <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Username &amp; Password</strong>.</li>
+                                                </ul>
+                                                <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_11_Connect_42_fig_db2_zdq_m2c" nd:nd-id="fig_db2_zdq_m2c">
+                                                  <div class="imagecenter break" css:display="block" css:text-align="center">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image imagecenter break" css:display="block" css:height="359px" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:width="257px" dita-ot:image-height="718" dita-ot:image-width="515" height="359" href="file:/D:/Installation%20Guide%20for%20VPN/images/3.png" id="unique_11_Connect_42_image_qns_zdq_m2c" nd:nd-id="image_qns_zdq_m2c" placement="break" scale="50" src="file:/D:/Installation%20Guide%20for%20VPN/images/3.png" width="257"><css:content-on-element><css:uri extracted-image-height="718" extracted-image-width="515" uri="file:/D:/Installation%20Guide%20for%20VPN/images/3.png"/></css:content-on-element></img>
+                                                  </div>
+                                                </figure>
+                                            </div>
+                                        </li>
+                                        <li class="- topic/li task/step li step" css:display="list-item">
+                                            <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect:</span>
+                                            <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_11_Connect_42_ul_znw_byn_m2c" nd:nd-id="ul_znw_byn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Click <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Save</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Select
+                                                  the VPN </span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Click
+                                                  Connect.</span></span><div class="imagecenter break" css:display="block" css:text-align="center">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image imagecenter break" css:display="block" css:image-resolution="96dpi" css:margin-bottom="1em" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" dita-ot:image-height="81" dita-ot:image-width="1023" href="file:/D:/Installation%20Guide%20for%20VPN/images/4.png" id="unique_11_Connect_42_image_kkd_j2q_m2c" nd:nd-id="image_kkd_j2q_m2c" placement="break" src="file:/D:/Installation%20Guide%20for%20VPN/images/4.png"><css:content-on-element><css:uri extracted-image-height="81" extracted-image-width="1023" uri="file:/D:/Installation%20Guide%20for%20VPN/images/4.png"/></css:content-on-element></img>
+                                                  </div>
+                                                  </li>
+                                                </ul>
+                                            </div>
+                                        </li>
+                                    </ol>
+                                </section>
+                            </div>
+                            <article aria-labelledby="ariaid-title12" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_12" nd:nd-id="manually_configuring_a_vpn_for_macos" oid="manually_configuring_a_vpn_for_macos" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title12"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Configuring a VPN For macOS</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open System Settings:</span>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_12_Connect_42_ul_jvf_hyn_m2c" nd:nd-id="ul_jvf_hyn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Go to<span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700"> System
+                                                  Settings</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Network</span></span> Click the<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">
+                                                  +</strong> button to add a new connection.</li>
+                                                  </ul>
+                                                </div>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter VPN
+                                                  Configuration:</span>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_12_Connect_42_ul_kvf_hyn_m2c" nd:nd-id="ul_kvf_hyn_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  Type</strong> (L2TP, IKEv2, or PPTP).</li>
+                                                  <li class="- topic/li li" css:display="list-item">Enter <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Server
+                                                  Address, Username, and Password</strong> from your
+                                                  VPN provider.</li>
+                                                  </ul>
+                                                </div>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect:</span>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_12_Connect_42_ul_ox2_wwp_m2c" nd:nd-id="ul_ox2_wwp_m2c">
+                                                  <li class="- topic/li li" css:display="list-item">Click <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Apply</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">
+                                                  Click</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Connect</span></span> .</li>
+                                                  </ul>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title13" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_13" nd:nd-id="configure_vpn_manually_on_android" oid="configure_vpn_manually_on_android" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title13"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Configuring VPN on Android</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open VPN Settings</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_13_Connect_42_substeps_oq2_yxp_m2c" nd:nd-id="substeps_oq2_yxp_m2c" type="a">
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Settings</strong> on your Android device.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Navigate to <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Network &amp; Internet</strong> &gt; <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN</strong>.</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_13_Connect_42_fig_ls5_ggq_m2c" nd:nd-id="fig_ls5_ggq_m2c"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="320px" css:image-resolution="96dpi" css:max-width="100%" css:width="147px" dita-ot:image-height="1600" dita-ot:image-width="738" height="320" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076154.jpg" id="unique_13_Connect_42_image_wcs_hgq_m2c" nd:nd-id="image_wcs_hgq_m2c" placement="inline" scale="20" src="file:/D:/Installation%20Guide%20for%20VPN/images/1000076154.jpg" width="147"><css:content-on-element><css:uri extracted-image-height="1600" extracted-image-width="738" uri="file:/D:/Installation%20Guide%20for%20VPN/images/1000076154.jpg"/></css:content-on-element></img></figure>
+                                                  </div>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
+                                                  VPN</strong> (or tap the “+” icon).</span>
+                                                  </li>
+                                                </ol>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="320px" css:image-resolution="96dpi" css:max-width="100%" css:width="147px" dita-ot:image-height="1600" dita-ot:image-width="738" height="320" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076155.jpg" id="unique_13_Connect_42_image_df2_jgq_m2c" nd:nd-id="image_df2_jgq_m2c" placement="inline" scale="20" src="file:/D:/Installation%20Guide%20for%20VPN/images/1000076155.jpg" width="147"><css:content-on-element><css:uri extracted-image-height="1600" extracted-image-width="738" uri="file:/D:/Installation%20Guide%20for%20VPN/images/1000076155.jpg"/></css:content-on-element></img></div>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter the following
+                                                  details:</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_13_Connect_42_substeps_b1g_vxp_m2c" nd:nd-id="substeps_b1g_vxp_m2c" type="a">
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Choose the VPN type (<strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">PPTP,
+                                                  L2TP/IPSec, or IKEv2</strong>) based on what your
+                                                  VPN provider supports.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter VPN Details</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="square" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_13_Connect_42_ul_g5j_dmp_m2c" nd:nd-id="ul_g5j_dmp_m2c">
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  Name</strong>: Any name to identify the VPN.</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Server
+                                                  Address</strong>: Provided by your VPN
+                                                  provider.</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Username &amp; Password</strong>: Your VPN
+                                                  credentials.</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">IPSec
+                                                  Key/Pre-Shared Key</strong>: If required.</li>
+                                                  </ul>
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_13_Connect_42_fig_d4h_mgq_m2c" nd:nd-id="fig_d4h_mgq_m2c">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image" css:display="block" css:height="320px" css:image-resolution="96dpi" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:text-align="center" css:width="147px" dita-ot:image-height="1600" dita-ot:image-width="738" height="320" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076180.jpg" id="unique_13_Connect_42_image_qr5_kgq_m2c" nd:nd-id="image_qr5_kgq_m2c" placement="inline" scale="20" src="file:/D:/Installation%20Guide%20for%20VPN/images/1000076180.jpg" width="147"><css:content-on-element><css:uri extracted-image-height="1600" extracted-image-width="738" uri="file:/D:/Installation%20Guide%20for%20VPN/images/1000076180.jpg"/></css:content-on-element></img>
+                                                  </figure>
+                                                  </div>
+                                                  </li>
+                                                </ol>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" type="a">
+                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Save</strong> to store the configuration.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Select the newly created VPN
+                                                  and tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Connect</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep" css:display="list-item" css:list-style-type="lower-alpha">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">A VPN icon should appear in
+                                                  the status bar when connected.</span>
+                                                  </li>
+                                                </ol>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_13_Connect_42_fig_ozc_pgq_m2c" nd:nd-id="fig_ozc_pgq_m2c"><img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" chfox:inch="true" class="- topic/image image" css:display="inline" css:height="320px" css:image-resolution="96dpi" css:max-width="100%" css:width="147px" dita-ot:image-height="1600" dita-ot:image-width="738" height="320" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076181.jpg" id="unique_13_Connect_42_image_dml_pgq_m2c" nd:nd-id="image_dml_pgq_m2c" placement="inline" scale="20" src="file:/D:/Installation%20Guide%20for%20VPN/images/1000076181.jpg" width="147"><css:content-on-element><css:uri extracted-image-height="1600" extracted-image-width="738" uri="file:/D:/Installation%20Guide%20for%20VPN/images/1000076181.jpg"/></css:content-on-element></img></figure>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </div>
+                            </article>
+                            <article aria-labelledby="ariaid-title14" class="- topic/topic task/task topic task nested1" css:display="block" css:oxy-pdf-tag-type="Sect" id="unique_14" nd:nd-id="configure_vpn_manually_on_iphone_ios_0" oid="configure_vpn_manually_on_iphone_ios_0" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                                <h2 class="- topic/title title topictitle2" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.7em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid" id="ariaid-title14"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Configure VPN Manually on iPhone
+                                        (iOS)</span></h2>
+                                <div class="- topic/body task/taskbody body taskbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                    <section class="- topic/section task/context section context" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect"/>
+                                    <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                        <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px">
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Open VPN Settings</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_14_Connect_42_substeps_tvx_gyp_m2c" nd:nd-id="substeps_tvx_gyp_m2c" type="a">
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Go to <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Settings</strong> on your iPhone.</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image" css:display="block" css:height="286px" css:image-resolution="96dpi" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:text-align="center" css:width="132px" dita-ot:image-height="2868" dita-ot:image-width="1320" height="286" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_170.png" id="unique_14_Connect_42_image_m2q_cfq_m2c" nd:nd-id="image_m2q_cfq_m2c" placement="inline" scale="10" src="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_170.png" width="132"><css:content-on-element><css:uri extracted-image-height="2242" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_170.png"/></css:content-on-element></img>
+                                                  </div>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">General</strong> and then select <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  &amp; Device Management</strong>.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN</strong> and then <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Add
+                                                  VPN Configuration</strong>.</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_14_Connect_42_fig_pn1_52q_m2c" nd:nd-id="fig_pn1_52q_m2c">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image" css:display="block" css:height="286px" css:image-resolution="96dpi" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:text-align="center" css:width="132px" dita-ot:image-height="2868" dita-ot:image-width="1320" height="286" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_083.png" id="unique_14_Connect_42_image_er3_52q_m2c" nd:nd-id="image_er3_52q_m2c" placement="inline" scale="10" src="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_083.png" width="132"><css:content-on-element><css:uri extracted-image-height="2242" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_083.png"/></css:content-on-element></img>
+                                                  </figure>
+                                                  </div>
+                                                  </li>
+                                                </ol>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter the following
+                                                  information:</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" type="a">
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Type</strong> and choose <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">L2TP,
+                                                  IKEv2, or IPSec</strong> (as provided by your VPN
+                                                  service).</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enter VPN Details</span>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <ul class="- topic/ul ul" css:display="block" css:list-style-type="square" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_14_Connect_42_ul_qh2_tqp_m2c" nd:nd-id="ul_qh2_tqp_m2c">
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Server</strong>: Enter the VPN server address
+                                                  (provided by your VPN provider).</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Remote
+                                                  ID</strong>: Enter the identifier given by your
+                                                  provider (for IKEv2).</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Username &amp; Password</strong>: Use your VPN
+                                                  account credentials.</li>
+                                                  <li class="- topic/li li" css:display="list-item"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Shared
+                                                  Secret</strong>: Enter the key (if required for
+                                                  L2TP/IPSec).</li>
+                                                  </ul>
+                                                  </div>
+                                                  <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_14_Connect_42_fig_lhs_x2q_m2c" nd:nd-id="fig_lhs_x2q_m2c">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image" css:display="block" css:height="286px" css:image-resolution="96dpi" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:text-align="center" css:width="132px" dita-ot:image-height="2868" dita-ot:image-width="1320" height="286" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_108.png" id="unique_14_Connect_42_image_jhd_y2q_m2c" nd:nd-id="image_jhd_y2q_m2c" placement="inline" scale="10" src="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_108.png" width="132"><css:content-on-element><css:uri extracted-image-height="2242" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_108.png"/></css:content-on-element></img>
+                                                  </figure>
+                                                  </div>
+                                                  </li>
+                                                </ol>
+                                            </li>
+                                            <li class="- topic/li task/step li step" css:display="list-item">
+                                                <span class="- topic/ph task/cmd ph cmd" css:display="inline">Save and Connect</span>
+                                                <ol class="- topic/ol task/substeps ol substeps" css:display="block" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_14_Connect_42_substeps_zbz_byp_m2c" nd:nd-id="substeps_zbz_byp_m2c" type="a">
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Tap <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Done</strong> to save the configuration.</span>
+                                                  </li>
+                                                  <li class="- topic/li task/substep li substep substepexpand" css:display="list-item" css:list-style-type="lower-alpha" css:margin-bottom="1em" css:margin-top="1em">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Toggle <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN
+                                                  ON</strong> to connect.</span>
+                                                  <div class="- topic/itemgroup task/stepresult itemgroup stepresult" css:display="block">You should now see a VPN icon
+                                                  in the status bar when connected.</div>
+                                                  </li>
+                                                </ol>
+                                                <div class="- topic/itemgroup task/info itemgroup info" css:display="block">
+                                                  <figure class="- topic/fig fig fignone" css:display="block" css:margin-bottom="1em" css:margin-left="40px" css:margin-right="40px" css:margin-top="1em" css:oxy-pdf-tag-type="Figure" id="unique_14_Connect_42_fig_h2x_z2q_m2c" nd:nd-id="fig_h2x_z2q_m2c">
+                                                  <img xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" align="center" class="- topic/image image" css:display="block" css:height="286px" css:image-resolution="96dpi" css:margin-left="auto" css:margin-right="auto" css:max-width="100%" css:text-align="center" css:width="132px" dita-ot:image-height="2868" dita-ot:image-width="1320" height="286" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_140.png" id="unique_14_Connect_42_image_id4_1fq_m2c" nd:nd-id="image_id4_1fq_m2c" placement="inline" scale="10" src="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_140.png" width="132"><css:content-on-element><css:uri extracted-image-height="2242" extracted-image-width="1024" uri="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_140.png"/></css:content-on-element></img>
+                                                  </figure>
+                                                </div>
+                                            </li>
+                                        </ol>
+                                    </section>
+                                </div>
+                            </article>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title15" break-before="true" class="- topic/topic concept/concept topic concept nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_15" is-chapter="true" nd:nd-id="verifying_the_vpn_connection" oid="verifying_the_vpn_connection" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title15"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="6"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="6"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Verifying the VPN Connection</span></h1>
+                            <div class="- topic/body concept/conbody body conbody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <div class="- topic/p p" css:display="block" css:margin-top="1em">
+                                    the VPN Connection (All Devices)<ol class="- topic/ol ol" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_15_Connect_42_ol_nfs_3xn_m2c" nd:nd-id="ol_nfs_3xn_m2c">
+                                        <li class="- topic/li li" css:display="list-item">Check the
+                                            VPN Status<ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_15_Connect_42_ul_ofs_3xn_m2c" nd:nd-id="ul_ofs_3xn_m2c">
+                                                <li class="- topic/li li" css:display="list-item">Windows: <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Settings</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Network
+                                                  &amp; Internet</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">VPN</span></span> Check if it says
+                                                  "Connected."</li>
+                                                <li class="- topic/li li" css:display="list-item">macOS: <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">System
+                                                  Settings </span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">
+                                                  Network</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">VPN</span></span> Check if it says
+                                                  "Connected."</li>
+                                                <li class="- topic/li li" css:display="list-item">Android:<span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Settings</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Network
+                                                  &amp; Internet</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">VPN</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700"/></span> Ensure it says "Connected."</li>
+                                                <li class="- topic/li li" css:display="list-item">iPhone: <span class="+ topic/ph ui-d/menucascade ph menucascade" css:display="inline"><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">Settings</span><abbr css:display="inline" css:font-weight="bold" title="and then"> &gt;
+                                                  </abbr><span class="+ topic/ph ui-d/uicontrol ph uicontrol" css:display="inline" css:font-weight="700">VPN</span></span> Ensure it shows
+                                                  "Connected."</li>
+                                            </ul></li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Check
+                                                  Your IP Address</strong></p>
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_15_Connect_42_ul_pfs_3xn_m2c" nd:nd-id="ul_pfs_3xn_m2c">
+                                                <li class="- topic/li li" css:display="list-item">Open a web browser and visit <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://www.whatismyip.com/" format="html" href="https://www.whatismyip.com/" rel="external noopener" scope="external" target="_blank">https://www.whatismyip.com/<css:after css:display="inline" css:font-style="italic" css:link="https://www.whatismyip.com/" css:oxy-alt-text=" "/></a>.</li>
+                                                <li class="- topic/li li" css:display="list-item">If
+                                                  the IP address matches your VPN server’s location,
+                                                  the VPN is working.</li>
+                                            </ul>
+                                        </li>
+                                        <li class="- topic/li li" css:display="list-item">
+                                            <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">Check
+                                                  for DNS Leaks (Optional)</strong></p>
+                                            <ul class="- topic/ul ul" css:display="block" css:list-style-type="circle" css:margin-bottom="0em" css:margin-top="0em" css:padding-left="40px" id="unique_15_Connect_42_ul_qfs_3xn_m2c" nd:nd-id="ul_qfs_3xn_m2c">
+                                                <li class="- topic/li li" css:display="list-item">Visit <a class="- topic/xref xref" css:color="rgb(51 , 122 , 183)" css:display="inline" css:link="https://www.dnsleaktest.com/" format="html" href="https://www.dnsleaktest.com/" rel="external noopener" scope="external" target="_blank">https://www.dnsleaktest.com/<css:after css:display="inline" css:font-style="italic" css:link="https://www.dnsleaktest.com/" css:oxy-alt-text=" "/></a>
+                                                  and run the test.</li>
+                                                <li class="- topic/li li" css:display="list-item">If
+                                                  your ISP’s name does not appear in the results,
+                                                  your VPN is secure.</li>
+                                            </ul>
+                                        </li>
+                                    </ol></div>
+                            </div>
+                        </article>
+                        </div></div></div></div></body></html></css:page-sequence><css:page-sequence xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" page="chapter"><html css:counter-reset=" page 1" css:display="block" css:font-family="serif" css:font-size="12px" css:min-width="100%" lang="en" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap"><body class="wh_topic_page" css:display="block" css:font-family="Roboto, sans-serif" css:font-size="10pt" css:margin-left="auto" css:margin-right="auto" css:min-width="100%"><div class="wh_content_area" css:color="rgb(0 , 0 , 0)" css:display="block" css:line-height="1.7em" css:margin-bottom="80px"><div class="wh_topic_body" css:display="block"><div class="wh_topic_content" css:display="block" css:margin-bottom="80px"><div cascade="merge" class="- map/map map" css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0" css:display="block" ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" lang="en" specializations="@props/deliveryTarget" xml:lang="en"><article aria-labelledby="ariaid-title16" break-before="true" class="- topic/topic troubleshooting/troubleshooting topic troubleshooting nested0" css:display="block" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_16" is-chapter="true" nd:nd-id="common_troubleshooting_issues" oid="common_troubleshooting_issues" specializations="@props/deliveryTarget" topicrefclass="- map/topicref ">
+                            <h1 class="- topic/title title topictitle1" css:bookmark-level="1" css:display="block" css:font-size="2em" css:line-height="1.1em" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="0" css:oxy-pdf-tag-type="H1" css:page-break-after="avoid" id="ariaid-title16"><css:string-set name="chaptertitle-no-prefix"><css:text> </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:string-set name="chaptertitle"><css:text> | </css:text><css:counter name="chapter" value="7"/><css:text> - </css:text><css:content source="text"/></css:string-set><css:before css:display="inline"><css:text>Chapter </css:text><css:counter name="chapter" value="7"/><css:text/><css:text>. </css:text></css:before><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label><span class="- topic/ph topic/title-wrapper ph title-wrapper" css:display="inline">Common Troubleshooting Issues </span></h1>
+                            <div class="- topic/body troubleshooting/troublebody body troublebody" css:display="block" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="0">
+                                <div class="- topic/bodydiv troubleshooting/troubleSolution bodydiv troubleSolution" css:display="block">
+                                    <section class="- topic/section troubleshooting/cause section cause" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_16_Connect_42_cause_otw_ht3_m2c" nd:nd-id="cause_otw_ht3_m2c">
+                                        <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Cause</h2>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold"> VPN Not
+                                            Connecting</strong></p>
+                                    </section>
+                                    <section class="- topic/section troubleshooting/remedy section remedy" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_16_Connect_42_remedy_ah3_jt3_m2c" nd:nd-id="remedy_ah3_jt3_m2c">
+                                        <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Remedy</h2>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_16_Connect_42_steps_ob3_kt3_m2c" nd:nd-id="steps_ob3_kt3_m2c">
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Check your <strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">internet connection</strong> (try browsing
+                                                  without VPN).</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Check internet
+                                                  connection.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Try a different server or
+                                                  protocol (e.g., switch from UDP to TCP in
+                                                  OpenVPN).</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Disable firewall/antivirus
+                                                  temporarily and retry.</span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </section>
+                                </div>
+                                <div class="- topic/bodydiv troubleshooting/troubleSolution bodydiv troubleSolution" css:display="block">
+                                    <section class="- topic/section troubleshooting/cause section cause" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_16_Connect_42_cause_cgr_rt3_m2c" nd:nd-id="cause_cgr_rt3_m2c">
+                                        <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Cause</h2>
+                                        <p class="- topic/p p" css:display="block" css:margin-bottom="0.5em" css:margin-left="0" css:margin-right="0" css:margin-top="1em"><strong class="+ topic/ph hi-d/b ph b" css:display="inline" css:font-weight="bold">VPN Keeps
+                                                Disconnecting</strong></p>
+                                    </section>
+                                    <section class="- topic/section troubleshooting/remedy section remedy" css:display="block" css:margin-bottom="1em" css:margin-top="1em" css:oxy-pdf-tag-type="Sect" id="unique_16_Connect_42_remedy_yns_tt3_m2c" nd:nd-id="remedy_yns_tt3_m2c">
+                                        <h2 class="- topic/title title sectiontitle" css:bookmark-level="2" css:bookmark-state="closed" css:display="block" css:font-size="1.17em" css:font-weight="700" css:margin-bottom="0" css:margin-left="0" css:margin-right="0" css:margin-top="1em" css:oxy-pdf-tag-type="H2" css:page-break-after="avoid"><css:bookmark-label><css:content source="before"/><css:content source="text"/></css:bookmark-label>Remedy</h2>
+                                        <section class="- topic/ol task/steps ol steps" css:display="block" css:oxy-pdf-tag-type="Sect">
+                                            <ol class="- topic/ol task/steps ol steps" css:display="block" css:list-style-type="decimal" css:margin-bottom="1.33em" css:margin-top="1.33em" css:padding-left="40px" id="unique_16_Connect_42_steps_o1j_5t3_m2c" nd:nd-id="steps_o1j_5t3_m2c">
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Enable "Kill Switch" and
+                                                  "Auto Reconnect" in settings.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Try a different protocol or
+                                                  server.</span>
+                                                </li>
+                                                <li class="- topic/li task/step li step" css:display="list-item">
+                                                  <span class="- topic/ph task/cmd ph cmd" css:display="inline">Check for ISP interference
+                                                  (some block VPN traffic).</span>
+                                                </li>
+                                            </ol>
+                                        </section>
+                                    </section>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html></css:page-sequence></css:root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install_vpn_on_laptop_phone">
+    <title>Install VPN on Laptop/Phone</title>
+    <taskbody><context><p>Manually Setting Up a VPN on Laptop</p></context><steps id="ol_qgg_lwn_m2c">
+            <step>
+                <cmd>Open System Preferences: </cmd>
+                <info>
+                    <ul id="ul_mby_mwn_m2c">
+                        <li>Click on <menucascade>
+                                <uicontrol>System Settings Network</uicontrol>
+                                <uicontrol>Click the + button to add a new connection.</uicontrol>
+                            </menucascade>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter VPN Configuration</cmd>
+            </step>
+            <step>
+                <cmd>Save and Connect.</cmd>
+            </step>
+        </steps></taskbody>
+</task>

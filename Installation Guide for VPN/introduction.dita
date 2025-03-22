@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>Introduction</title>
+    <conbody>
+        <p>A Virtual Private Network (VPN) enhances online privacy and security by encrypting
+            internet traffic and masking the user’s IP address. This guide provides step-by-step
+            instructions for installing and configuring a VPN on various devices, ensuring a secure
+            and seamless browsing experience. Whether you're setting up a VPN for personal privacy,
+            remote work, or accessing restricted content, this guide will help you get started
+            quickly and efficiently.</p>
+    </conbody>
+</concept>

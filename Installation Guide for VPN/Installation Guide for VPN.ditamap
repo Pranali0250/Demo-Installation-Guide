@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Installation Guide for VPN</title>
+    <topicref href="introduction.dita">
+        <topicref href="what_is_vpn.dita"/>
+        <topicref href="why_vpn_is_used.dita"/>
+        <topicref href="how_to_use_vpn.dita"/>
+        <topicref href="when_vpn_is_used.dita"/>
+    </topicref>
+    <topicref href="prerequisites.dita"/>
+    <topicref href="types_security_aspects_of_vpn.dita">
+        <topicref href="security_aspects_of_vpn.dita"/>
+    </topicref>
+    <topicref href="install_vpn_on_laptop_phone.dita">
+        <topicref href="install_vpn_on_phone.dita"/>
+    </topicref>
+    <topicref href="configure_vpn_settings_verify.dita">
+        <topicref href="manually_configuring_a_vpn_for_macos.dita"/>
+        <topicref href="configure_vpn_manually_on_android.dita"/>
+        <topicref href="configure_vpn_manually_on_iphone_ios_0.dita"/>
+    </topicref>
+    <topicref href="verifying_the_vpn_connection.dita"/>
+    <topicref href="common_troubleshooting_issues.dita"/>
+</map>

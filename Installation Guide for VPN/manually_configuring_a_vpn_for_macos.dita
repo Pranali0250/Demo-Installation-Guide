@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="manually_configuring_a_vpn_for_macos">
+    <title>Configuring a VPN For macOS</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open System Settings:</cmd>
+                <info>
+                    <ul id="ul_jvf_hyn_m2c">
+                        <li>Go to<menucascade>
+                                <uicontrol> System Settings</uicontrol>
+                                <uicontrol>Network</uicontrol>
+                            </menucascade> Click the<b> +</b> button  to add a new connection.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter VPN Configuration:</cmd>
+                <info>
+                    <ul id="ul_kvf_hyn_m2c">
+                        <li>Select <b>VPN Type</b> (L2TP, IKEv2, or PPTP).</li>
+                        <li>Enter <b>Server Address, Username, and Password</b> from your VPN
+                            provider.</li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Save and Connect:</cmd>
+                <info>
+                    <ul id="ul_ox2_wwp_m2c">
+                        <li>Click <menucascade>
+                                <uicontrol>Apply</uicontrol>
+                                <uicontrol> Click</uicontrol>
+                                <uicontrol>Connect</uicontrol>
+                            </menucascade> .</li>
+                    </ul>
+                </info>
+            </step>
+        </steps></taskbody>
+</task>

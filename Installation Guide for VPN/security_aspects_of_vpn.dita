@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="security_aspects_of_vpn">
+    <title>Security Aspects of VPN</title>
+    <conbody>
+        <ol id="ol_axz_xzp_m2c">
+            <li><b>Encryption:</b>  Protects data using protocols like AES-256, ChaCha20, and TLS
+                encryption.</li>
+            <li><b>Tunneling Protocols:</b> Secure communication using OpenVPN, WireGuard, IPSec,
+                L2TP, etc.</li>
+            <li><b>No-Log Policy :</b> Ensures VPN providers do not store browsing history or user
+                data.</li>
+            <li><b>Kill Switch :</b> Disconnects the internet if the VPN drops, preventing IP
+                leaks.</li>
+            <li><b>DNS &amp; IP Leak Protection :</b>  Prevents exposure of real IP and DNS
+                queries.</li>
+            <li><b>Multi-Factor Authentication (MFA):</b> Adds extra security for user logins.</li>
+            <li><b>Split Tunneling :</b>  Allows users to route some traffic through VPN while
+                keeping other traffic direct.</li>
+            <li><b>DDoS &amp; Malware Protection :</b>  Some VPNs offer protection against cyber
+                threats.</li>
+        </ol>
+    </conbody>
+</concept>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="configure_vpn_manually_on_android">
+    <title>Configuring VPN on Android</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Open VPN Settings</cmd>
+                <substeps id="substeps_oq2_yxp_m2c">
+                    <substep>
+                        <cmd>Open <b>Settings</b> on your Android device.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Navigate to <b>Network &amp; Internet</b> > <b>VPN</b>.</cmd>
+                        <info>
+                            <fig id="fig_ls5_ggq_m2c">
+                                <image href="images/1000076154.jpg" id="image_wcs_hgq_m2c"
+                                    scale="20"/>
+                            </fig>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Tap <b>Add VPN</b> (or tap the “+” icon).</cmd>
+                    </substep>
+                </substeps>
+                <info><image href="images/1000076155.jpg" id="image_df2_jgq_m2c" scale="20"/></info>
+            </step>
+            <step>
+                <cmd>Enter the following details:</cmd>
+                <substeps id="substeps_b1g_vxp_m2c">
+                    <substep>
+                        <cmd>Choose the VPN type (<b>PPTP, L2TP/IPSec, or IKEv2</b>) based on what
+                            your VPN provider supports.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Enter VPN Details</cmd>
+                        <info>
+                            <ul id="ul_g5j_dmp_m2c">
+                                <li>VPN Name: Any name to identify the VPN.</li>
+                                <li>Server Address: Provided by your VPN provider.</li>
+                                <li>Username &amp; Password: Your VPN credentials.</li>
+                                <li>IPSec Key/Pre-Shared Key: If required.</li>
+                            </ul>
+                            <fig id="fig_d4h_mgq_m2c">
+                                <image href="images/1000076180.jpg" id="image_qr5_kgq_m2c"
+                                    scale="20" align="center"/>
+                            </fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Save and Connect</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Tap <b>Save</b> to store the configuration.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the newly created VPN and tap <b>Connect</b>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>A VPN icon should appear in the status bar when connected.</cmd>
+                    </substep>
+                </substeps>
+                <info>
+                    <fig id="fig_ozc_pgq_m2c">
+                        <image href="images/1000076181.jpg" id="image_dml_pgq_m2c" scale="20"/>
+                    </fig>
+                </info>
+            </step>
+        </steps></taskbody>
+</task>

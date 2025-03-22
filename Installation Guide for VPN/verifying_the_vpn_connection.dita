@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="verifying_the_vpn_connection">
+    <title>Verifying the VPN Connection</title>
+    <conbody>
+        <p> the VPN Connection (All Devices)<ol id="ol_nfs_3xn_m2c">
+                <li>Check the VPN Status<ul id="ul_ofs_3xn_m2c">
+                        <li>Windows: <menucascade>
+                                <uicontrol>Settings</uicontrol>
+                                <uicontrol>Network &amp; Internet</uicontrol>
+                                <uicontrol>VPN</uicontrol>
+                            </menucascade> Check if it says "Connected."</li>
+                        <li>macOS: <menucascade>
+                                <uicontrol>System Settings </uicontrol>
+                                <uicontrol> Network</uicontrol>
+                                <uicontrol>VPN</uicontrol>
+                            </menucascade> Check if it says "Connected."</li>
+                        <li>Android:<menucascade>
+                                <uicontrol>Settings</uicontrol>
+                                <uicontrol>Network &amp; Internet</uicontrol>
+                                <uicontrol>VPN</uicontrol>
+                                <uicontrol/>
+                            </menucascade> Ensure it says "Connected."</li>
+                        <li>iPhone: <menucascade>
+                                <uicontrol>Settings</uicontrol>
+                                <uicontrol>VPN</uicontrol>
+                            </menucascade>  Ensure it shows "Connected."</li>
+                    </ul></li>
+                <li>
+                    <p>Check Your IP Address</p>
+                    <ul id="ul_pfs_3xn_m2c">
+                        <li>Open a web browser and visit <xref href="https://www.whatismyip.com/"
+                                format="html" scope="external"
+                            >https://www.whatismyip.com/</xref>.</li>
+                        <li>If the IP address matches your VPN server’s location, the VPN is
+                            working.</li>
+                    </ul>
+                </li>
+                <li>
+                    <p>Check for DNS Leaks (Optional)</p>
+                    <ul id="ul_qfs_3xn_m2c">
+                        <li>Visit <xref href="https://www.dnsleaktest.com/" format="html"
+                                scope="external">https://www.dnsleaktest.com/</xref> and run the
+                            test.</li>
+                        <li>If your ISP’s name does not appear in the results, your VPN is
+                            secure.</li>
+                    </ul>
+                </li>
+            </ol></p>
+    </conbody>
+</concept>

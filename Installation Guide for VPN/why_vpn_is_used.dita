@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="why_vpn_is_used">
+    <title>Why VPN is used</title>
+    <conbody>
+        <p>VPNs (Virtual Private Networks) are used for several important purposes, including
+            security, privacy, and access control. Here are the key reasons why VPNs are used:<ol
+                id="ol_i4p_z43_m2c">
+                <li><b>Security &amp; Encryption:</b><ul id="ul_upp_y43_m2c">
+                        <li>VPNs encrypt internet traffic, making it difficult for hackers, ISPs, or
+                            government agencies to monitor online activities.</li>
+                        <li>Essential for securing data when using public Wi-Fi networks (e.g., in
+                            cafes, airports, hotels).</li>
+                    </ul></li>
+                <li><b>Privacy &amp; Anonymity:</b><ul id="ul_vqf_dp3_m2c">
+                        <li>Hides the user's real IP address, preventing websites, advertisers, and
+                            ISPs from tracking online activity.</li>
+                        <li>Prevents data collection and profiling by third-party companies.</li>
+                    </ul></li>
+                <li><b> Secure Remote Access :</b><ul id="ul_fwl_hp3_m2c">
+                        <li>Enables employees to securely connect to company networks from
+                            anywhere.</li>
+                        <li>Ensures encrypted data transfer between remote workers and company
+                            servers.</li>
+                        <li>Prevents cyberattacks like man-in-the-middle (MITM) attacks.</li>
+                    </ul></li>
+                <li><b>Safe P2P File Sharing &amp; Torrenting:</b><ul id="ul_ypp_y43_m2c">
+                        <li>Hides IP addresses while downloading torrents, protecting users from
+                            copyright trolls and legal actions.</li>
+                        <li>Prevents ISPs from throttling internet speeds for P2P activities.</li>
+                        <li>Some ISPs throttle (slow down) internet speeds for streaming or
+                            gaming.</li>
+                        <li>A VPN encrypts traffic, preventing ISPs from detecting and throttling
+                            specific activities.</li>
+                    </ul></li>
+                <li><b>Secure Communication:</b><ul id="ul_bqp_y43_m2c">
+                        <li>Encrypts VoIP (Voice over IP) calls, preventing eavesdropping.</li>
+                        <li>Ensures private and secure communication for journalists, activists, and
+                            whistleblowers.</li>
+                    </ul></li>
+            </ol></p>
+    </conbody>
+</concept>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="types_security_aspects_of_vpn">
+    <title>Types &amp; Security aspects of VPN</title>
+    <conbody>
+        <section id="section_gf5_4q3_m2c">
+            <title>Types of VPN</title>
+            <ol id="ol_hf5_4q3_m2c">
+                <li><b>Remote Access VPN:</b> Allows users to securely connect to a private network
+                    (e.g., corporate VPN for remote workers).</li>
+                <li><b>Site-to-Site VPN:</b>  Connects multiple office locations securely over the
+                    internet.</li>
+                <li><b>Client-Based VPN:</b> Requires software installation on the user’s device
+                    (e.g., OpenVPN, WireGuard).</li>
+                <li><b>Network-Based VPN:</b> Configured at the router level for all devices on a
+                    network.</li>
+                <li><b>SSL VPN:</b>  Uses a web browser for secure access without installing
+                    software.</li>
+                <li><b>Cloud VPN:</b>  Hosted on cloud platforms for secure access to cloud-based
+                    resources.</li>
+                <li><b>Peer-to-Peer (P2P) VPN:</b> Decentralized VPN where users route traffic
+                    through each other’s devices (e.g., Hola VPN).</li>
+            </ol>
+        </section>
+    </conbody>
+</concept>

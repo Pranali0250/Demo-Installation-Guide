@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="common_troubleshooting_issues">
+    <title>Common Troubleshooting Issues </title>
+    <troublebody><troubleSolution>
+            <cause id="cause_otw_ht3_m2c">
+                <title>Cause</title>
+                <p> VPN Not Connecting</p>
+            </cause>
+            <remedy id="remedy_ah3_jt3_m2c">
+                <title>Remedy</title>
+                <steps id="steps_ob3_kt3_m2c">
+                    <step>
+                        <cmd>Check your <b>internet connection</b> (try browsing without VPN).</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check internet connection.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Try a different server or protocol (e.g., switch from UDP to TCP in
+                            OpenVPN).</cmd>
+                    </step>
+                    <step>
+                        <cmd>Disable firewall/antivirus temporarily and retry.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause id="cause_cgr_rt3_m2c">
+                <title>Cause</title>
+                <p>VPN Keeps Disconnecting</p>
+            </cause>
+            <remedy id="remedy_yns_tt3_m2c">
+                <title>Remedy</title>
+                <steps id="steps_o1j_5t3_m2c">
+                    <step>
+                        <cmd>Enable "Kill Switch" and "Auto Reconnect" in settings.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Try a different protocol or server.</cmd>
+                    </step>
+                    <step>
+                        <cmd>Check for ISP interference (some block VPN traffic).</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting>

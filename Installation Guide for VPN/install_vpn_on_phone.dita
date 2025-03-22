@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="install_vpn_on_phone">
+    <title>Install VPN on Phone</title>
+    <taskbody><context>
+        <p>Manually Setting Up a VPN</p>
+    </context>
+        <steps>
+            <step>
+                <cmd>Open VPN Settings:</cmd>
+                <info>
+                    <ul>
+                        <li>Go to<menucascade>
+                                <uicontrol>Settings </uicontrol>
+                                <uicontrol>Network &amp; Internet </uicontrol>
+                                <uicontrol> VPN.</uicontrol>
+                            </menucascade></li>
+                    </ul>
+                </info>
+            </step>
+            <step>
+                <cmd>Add a New VPN Connection:</cmd>
+            </step>
+            <step>
+                <cmd>Save and Connect</cmd>
+            </step>
+        </steps></taskbody>
+</task>

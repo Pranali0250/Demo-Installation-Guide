@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Program%20Files/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/D:/Installation%20Guide%20for%20VPN/Installation%20Guide%20for%20VPN.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title "/></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title "/>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="what_is_vpn"><resourceid appid="what_is_vpn" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">What is VPN</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="why_vpn_is_used"><resourceid appid="why_vpn_is_used" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Why VPN is used</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="how_to_use_vpn"><resourceid appid="how_to_use_vpn" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">How to use VPN</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="when_vpn_is_used"><resourceid appid="when_vpn_is_used" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">When VPN is used</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="prerequisites"><resourceid appid="prerequisites" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Prerequisites</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="types_security_aspects_of_vpn"><resourceid appid="types_security_aspects_of_vpn" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Types &amp; Security aspects of VPN</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_8" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="security_aspects_of_vpn"><resourceid appid="security_aspects_of_vpn" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Security Aspects of VPN</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="task"><topicmeta class="- map/topicmeta " data-topic-id="install_vpn_on_laptop_phone"><resourceid appid="install_vpn_on_laptop_phone" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Install VPN on Laptop/Phone</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_10" type="task"><topicmeta class="- map/topicmeta " data-topic-id="install_vpn_on_phone"><resourceid appid="install_vpn_on_phone" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Install VPN on Phone</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_11" type="task"><topicmeta class="- map/topicmeta " data-topic-id="configure_vpn_settings_verify"><resourceid appid="configure_vpn_settings_verify" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_11" class="- topic/navtitle ">Configure VPN settings/verify</navtitle><?ditaot gentext?></topicmeta><topicref class="- map/topicref " href="#unique_12" type="task"><topicmeta class="- map/topicmeta " data-topic-id="manually_configuring_a_vpn_for_macos"><resourceid appid="manually_configuring_a_vpn_for_macos" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_12" class="- topic/navtitle ">Configuring a VPN For macOS</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_13" type="task"><topicmeta class="- map/topicmeta " data-topic-id="configure_vpn_manually_on_android"><resourceid appid="configure_vpn_manually_on_android" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_13" class="- topic/navtitle ">Configuring VPN on Android</navtitle><?ditaot gentext?></topicmeta></topicref><topicref class="- map/topicref " href="#unique_14" type="task"><topicmeta class="- map/topicmeta " data-topic-id="configure_vpn_manually_on_iphone_ios_0"><resourceid appid="configure_vpn_manually_on_iphone_ios_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_14" class="- topic/navtitle ">Configure VPN Manually on iPhone (iOS)</navtitle><?ditaot gentext?></topicmeta></topicref></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_15" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="verifying_the_vpn_connection"><resourceid appid="verifying_the_vpn_connection" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_15" class="- topic/navtitle ">Verifying the VPN Connection</navtitle><?ditaot gentext?></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_16" type="troubleshooting"><topicmeta class="- map/topicmeta " data-topic-id="common_troubleshooting_issues"><resourceid appid="common_troubleshooting_issues" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_16" class="- topic/navtitle ">Common Troubleshooting Issues </navtitle><?ditaot gentext?></topicmeta></topicref>
+</opentopic:map><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A Virtual Private Network (VPN) enhances online privacy and security by encrypting
+            internet traffic and masking the user’s IP address. This guide provides step-by-step
+            instructions for installing and configuring a VPN on various devices, ensuring a secure
+            and seamless browsing experience. Whether you're setting up a VPN for personal privacy,
+            remote work, or accessing restricted content, this guide will help you get started
+            quickly and efficiently.</p>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="what_is_vpn" oid="what_is_vpn" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">What is VPN</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">A <b class="+ topic/ph hi-d/b ">VPN</b> (Virtual Private Network) is a technology that creates a secure, encrypted
+            connection over a less secure network—typically the internet. </p>
+    </conbody>
+</concept><concept class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="why_vpn_is_used" oid="why_vpn_is_used" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why VPN is used</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">VPNs (Virtual Private Networks) are used for several important purposes, including
+            security, privacy, and access control. Here are the key reasons why VPNs are used:<ol class="- topic/ol " id="unique_3_Connect_42_ol_i4p_z43_m2c" nd:nd-id="ol_i4p_z43_m2c">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Security &amp; Encryption:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_upp_y43_m2c" nd:nd-id="ul_upp_y43_m2c">
+                        <li class="- topic/li ">VPNs encrypt internet traffic, making it difficult for hackers, ISPs, or
+                            government agencies to monitor online activities.</li>
+                        <li class="- topic/li ">Essential for securing data when using public Wi-Fi networks (e.g., in
+                            cafes, airports, hotels).</li>
+                    </ul></li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Privacy &amp; Anonymity:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_vqf_dp3_m2c" nd:nd-id="ul_vqf_dp3_m2c">
+                        <li class="- topic/li ">Hides the user's real IP address, preventing websites, advertisers, and
+                            ISPs from tracking online activity.</li>
+                        <li class="- topic/li ">Prevents data collection and profiling by third-party companies.</li>
+                    </ul></li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b "> Secure Remote Access :</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_fwl_hp3_m2c" nd:nd-id="ul_fwl_hp3_m2c">
+                        <li class="- topic/li ">Enables employees to securely connect to company networks from
+                            anywhere.</li>
+                        <li class="- topic/li ">Ensures encrypted data transfer between remote workers and company
+                            servers.</li>
+                        <li class="- topic/li ">Prevents cyberattacks like man-in-the-middle (MITM) attacks.</li>
+                    </ul></li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Safe P2P File Sharing &amp; Torrenting:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_ypp_y43_m2c" nd:nd-id="ul_ypp_y43_m2c">
+                        <li class="- topic/li ">Hides IP addresses while downloading torrents, protecting users from
+                            copyright trolls and legal actions.</li>
+                        <li class="- topic/li ">Prevents ISPs from throttling internet speeds for P2P activities.</li>
+                        <li class="- topic/li ">Some ISPs throttle (slow down) internet speeds for streaming or
+                            gaming.</li>
+                        <li class="- topic/li ">A VPN encrypts traffic, preventing ISPs from detecting and throttling
+                            specific activities.</li>
+                    </ul></li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Secure Communication:</b><ul class="- topic/ul " id="unique_3_Connect_42_ul_bqp_y43_m2c" nd:nd-id="ul_bqp_y43_m2c">
+                        <li class="- topic/li ">Encrypts VoIP (Voice over IP) calls, preventing eavesdropping.</li>
+                        <li class="- topic/li ">Ensures private and secure communication for journalists, activists, and
+                            whistleblowers.</li>
+                    </ul></li>
+            </ol></p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="how_to_use_vpn" oid="how_to_use_vpn" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to use VPN</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose a reliable VPN provider, such as NordVPN, ExpressVPN, or
+                    ProtonVPN.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download and install the VPN application on your device. Supported platforms
+                    include Windows, macOS, Android, and iOS</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Launch the application and sign in using your VPN account credentials.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Choose a VPN server location based on your preference or requirements.</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Turn on security features such as the kill switch, DNS leak protection, and
+                    encryption settings if available.</cmd>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_4_Connect_42_result_g1s_syp_m2c" nd:nd-id="result_g1s_syp_m2c">Once connected, your internet traffic is encrypted, and your
+            IP is hidden.</result></taskbody>
+</task><concept class="- topic/topic concept/concept " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="when_vpn_is_used" oid="when_vpn_is_used" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">When VPN is used</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_5_Connect_42_ol_jkt_mzp_m2c" nd:nd-id="ol_jkt_mzp_m2c">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Privacy &amp; Anonymity:</b> Hides your IP and encrypts your data.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Security:</b>  Protects against hackers, especially on public Wi-Fi.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Bypass Restrictions:</b>  Access blocked websites and geo-restricted
+                content.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Remote Access:</b> Securely connect to work or home networks.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Avoid ISP Throttling:</b>  Prevents slowdowns from your internet provider.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Safe Torrenting &amp; Gaming:</b> Protects identity and reduces lag.</li>
+        </ol>
+    </conbody>
+</concept></concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="prerequisites" oid="prerequisites" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Prerequisites</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_6_Connect_42_ol_wn4_jq3_m2c" nd:nd-id="ol_wn4_jq3_m2c">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Stable Internet Connection:</b> Required for downloading and configuring the
+                VPN.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Compatible Device:</b> VPN software should support your operating system
+                (Windows, macOS, Linux, Android, iOS, Router).</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">VPN Subscription or Self-Hosted Server:</b> Choose a VPN provider (e.g., NordVPN,
+                ExpressVPN) or set up your own (OpenVPN, WireGuard).</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Administrative Access:</b>  Needed to install software and change network
+                settings.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Firewall &amp; Security Configuration:</b>  Ensure your firewall allows VPN
+                connections.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Login Credentials or VPN Configuration File :</b> Provided by your VPN provider
+                or manually configured for self-hosted setups.</li>
+        </ol>
+    </conbody>
+</concept><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="types_security_aspects_of_vpn" oid="types_security_aspects_of_vpn" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Types &amp; Security aspects of VPN</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <section class="- topic/section " id="unique_7_Connect_42_section_gf5_4q3_m2c" nd:nd-id="section_gf5_4q3_m2c">
+            <title class="- topic/title "><b class="+ topic/ph hi-d/b ">Types of VPN</b></title>
+            <ol class="- topic/ol " id="unique_7_Connect_42_ol_hf5_4q3_m2c" nd:nd-id="ol_hf5_4q3_m2c">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Remote Access VPN:</b> Allows users to securely connect to a private network
+                    (e.g., corporate VPN for remote workers).</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Site-to-Site VPN:</b>  Connects multiple office locations securely over the
+                    internet.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Client-Based VPN:</b> Requires software installation on the user’s device
+                    (e.g., OpenVPN, WireGuard).</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Network-Based VPN:</b> Configured at the router level for all devices on a
+                    network.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">SSL VPN:</b>  Uses a web browser for secure access without installing
+                    software.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Cloud VPN:</b>  Hosted on cloud platforms for secure access to cloud-based
+                    resources.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Peer-to-Peer (P2P) VPN:</b> Decentralized VPN where users route traffic
+                    through each other’s devices (e.g., Hola VPN).</li>
+            </ol>
+        </section>
+    </conbody>
+<concept class="- topic/topic concept/concept " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="security_aspects_of_vpn" oid="security_aspects_of_vpn" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Security Aspects of VPN</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <ol class="- topic/ol " id="unique_8_Connect_42_ol_axz_xzp_m2c" nd:nd-id="ol_axz_xzp_m2c">
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Encryption:</b>  Protects data using protocols like AES-256, ChaCha20, and TLS
+                encryption.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Tunneling Protocols:</b> Secure communication using OpenVPN, WireGuard, IPSec,
+                L2TP, etc.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">No-Log Policy :</b> Ensures VPN providers do not store browsing history or user
+                data.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Kill Switch :</b> Disconnects the internet if the VPN drops, preventing IP
+                leaks.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">DNS &amp; IP Leak Protection :</b>  Prevents exposure of real IP and DNS
+                queries.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Multi-Factor Authentication (MFA):</b> Adds extra security for user logins.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Split Tunneling :</b>  Allows users to route some traffic through VPN while
+                keeping other traffic direct.</li>
+            <li class="- topic/li "><b class="+ topic/ph hi-d/b ">DDoS &amp; Malware Protection :</b>  Some VPNs offer protection against cyber
+                threats.</li>
+        </ol>
+    </conbody>
+</concept></concept><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="install_vpn_on_laptop_phone" oid="install_vpn_on_laptop_phone" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Install VPN on Laptop/Phone</ph></title>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context "><p class="- topic/p ">Manually Setting Up a VPN on Laptop</p></context><steps class="- topic/ol task/steps " id="unique_9_Connect_42_ol_qgg_lwn_m2c" nd:nd-id="ol_qgg_lwn_m2c">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open System Preferences: </cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_9_Connect_42_ul_mby_mwn_m2c" nd:nd-id="ul_mby_mwn_m2c">
+                        <li class="- topic/li ">Click on <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;10:51" xtrf="file:/D:/Installation%20Guide%20for%20VPN/install_vpn_on_laptop_phone.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">System Settings Network</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Click the + button to add a new connection.</uicontrol></menucascade>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter VPN Configuration: </cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect .</cmd>
+            </step>
+        </steps></taskbody>
+<task class="- topic/topic task/task " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="install_vpn_on_phone" oid="install_vpn_on_phone" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Install VPN on Phone</ph></title>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
+        <p class="- topic/p ">Manually Setting Up a VPN</p>
+    </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open VPN Settings:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul ">
+                        <li class="- topic/li ">Go to<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:47" xtrf="file:/D:/Installation%20Guide%20for%20VPN/install_vpn_on_phone.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings </uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Network &amp; Internet </uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> VPN.</uicontrol></menucascade></li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Add a New VPN Connection:</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect</cmd>
+            </step>
+        </steps></taskbody>
+</task></task><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_11" topicrefclass="- map/topicref " nd:nd-id="configure_vpn_settings_verify" oid="configure_vpn_settings_verify" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Configure VPN settings/verify</ph></title>
+    <taskbody class="- topic/body task/taskbody "><context class="- topic/section task/context ">
+        <p class="- topic/p ">Configuring a VPN For Windows</p>
+    </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open VPN Settings:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_11_Connect_42_ul_xnw_byn_m2c" nd:nd-id="ul_xnw_byn_m2c">
+                        <li class="- topic/li ">Go to<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;13:47" xtrf="file:/D:/Installation%20Guide%20for%20VPN/configure_vpn_settings_verify.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings </uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> Network &amp; Internet</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> VPN</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Add a VPN connection.</uicontrol></menucascade>
+                        </li>
+                    </ul>
+                    <fig class="- topic/fig " id="unique_11_Connect_42_fig_v3w_mdq_m2c" nd:nd-id="fig_v3w_mdq_m2c"><image align="center" class="- topic/image " dita-ot:image-width="1365" dita-ot:image-height="739" href="file:/D:/Installation%20Guide%20for%20VPN/images/1.png" id="unique_11_Connect_42_image_v4h_ndq_m2c" nd:nd-id="image_v4h_ndq_m2c" placement="break" scale="50"/></fig>
+                    <image align="center" class="- topic/image " dita-ot:image-width="1104" dita-ot:image-height="157" href="file:/D:/Installation%20Guide%20for%20VPN/images/2.png" id="unique_11_Connect_42_image_kf3_rdq_m2c" nd:nd-id="image_kf3_rdq_m2c" placement="break" scale="50"/>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter VPN Details:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_11_Connect_42_ul_ynw_byn_m2c" nd:nd-id="ul_ynw_byn_m2c">
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">VPN Provider</b>: Windows (Built-in).</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Connection Name</b>: (Any name).</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Server Address</b>: (From your VPN provider).</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">VPN Type</b>: Choose <b class="+ topic/ph hi-d/b ">L2TP/IPSec, PPTP, or IKEv2/IPSec</b>.</li>
+                        <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Sign-in Info</b>: Enter <b class="+ topic/ph hi-d/b ">Username &amp; Password</b>.</li>
+                    </ul>
+                    <fig class="- topic/fig " id="unique_11_Connect_42_fig_db2_zdq_m2c" nd:nd-id="fig_db2_zdq_m2c"><image align="center" class="- topic/image " dita-ot:image-width="515" dita-ot:image-height="718" href="file:/D:/Installation%20Guide%20for%20VPN/images/3.png" id="unique_11_Connect_42_image_qns_zdq_m2c" nd:nd-id="image_qns_zdq_m2c" placement="break" scale="50"/></fig>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_11_Connect_42_ul_znw_byn_m2c" nd:nd-id="ul_znw_byn_m2c">
+                        <li class="- topic/li ">Click <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:2;49:48" xtrf="file:/D:/Installation%20Guide%20for%20VPN/configure_vpn_settings_verify.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Save</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Select the VPN </uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Click Connect.</uicontrol></menucascade><image align="center" class="- topic/image " dita-ot:image-width="1023" dita-ot:image-height="81" href="file:/D:/Installation%20Guide%20for%20VPN/images/4.png" id="unique_11_Connect_42_image_kkd_j2q_m2c" nd:nd-id="image_kkd_j2q_m2c" placement="break"/>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+        </steps></taskbody>
+<task class="- topic/topic task/task " id="unique_12" topicrefclass="- map/topicref " nd:nd-id="manually_configuring_a_vpn_for_macos" oid="manually_configuring_a_vpn_for_macos" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Configuring a VPN For macOS</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open System Settings:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_12_Connect_42_ul_jvf_hyn_m2c" nd:nd-id="ul_jvf_hyn_m2c">
+                        <li class="- topic/li ">Go to<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;11:47" xtrf="file:/D:/Installation%20Guide%20for%20VPN/manually_configuring_a_vpn_for_macos.dita"><uicontrol class="+ topic/ph ui-d/uicontrol "> System Settings</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Network</uicontrol></menucascade> Click the<b class="+ topic/ph hi-d/b "> +</b> button  to add a new connection.</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter VPN Configuration:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_12_Connect_42_ul_kvf_hyn_m2c" nd:nd-id="ul_kvf_hyn_m2c">
+                        <li class="- topic/li ">Select <b class="+ topic/ph hi-d/b ">VPN Type</b> (L2TP, IKEv2, or PPTP).</li>
+                        <li class="- topic/li ">Enter <b class="+ topic/ph hi-d/b ">Server Address, Username, and Password</b> from your VPN
+                            provider.</li>
+                    </ul>
+                </info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect:</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <ul class="- topic/ul " id="unique_12_Connect_42_ul_ox2_wwp_m2c" nd:nd-id="ul_ox2_wwp_m2c">
+                        <li class="- topic/li ">Click <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:2;32:48" xtrf="file:/D:/Installation%20Guide%20for%20VPN/manually_configuring_a_vpn_for_macos.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Apply</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> Click</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Connect</uicontrol></menucascade> .</li>
+                    </ul>
+                </info>
+            </step>
+        </steps></taskbody>
+</task><task class="- topic/topic task/task " id="unique_13" topicrefclass="- map/topicref " nd:nd-id="configure_vpn_manually_on_android" oid="configure_vpn_manually_on_android" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Configuring VPN on Android</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open VPN Settings</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_oq2_yxp_m2c" nd:nd-id="substeps_oq2_yxp_m2c">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Open <b class="+ topic/ph hi-d/b ">Settings</b> on your Android device.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Navigate to <b class="+ topic/ph hi-d/b ">Network &amp; Internet</b> &gt; <b class="+ topic/ph hi-d/b ">VPN</b>.</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <fig class="- topic/fig " id="unique_13_Connect_42_fig_ls5_ggq_m2c" nd:nd-id="fig_ls5_ggq_m2c"><image class="- topic/image " dita-ot:image-width="738" dita-ot:image-height="1600" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076154.jpg" id="unique_13_Connect_42_image_wcs_hgq_m2c" nd:nd-id="image_wcs_hgq_m2c" placement="inline" scale="20"/></fig>
+                        </info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Add VPN</b> (or tap the “+” icon).</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info "><image class="- topic/image " dita-ot:image-width="738" dita-ot:image-height="1600" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076155.jpg" id="unique_13_Connect_42_image_df2_jgq_m2c" nd:nd-id="image_df2_jgq_m2c" placement="inline" scale="20"/></info>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the following details:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_13_Connect_42_substeps_b1g_vxp_m2c" nd:nd-id="substeps_b1g_vxp_m2c">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Choose the VPN type (<b class="+ topic/ph hi-d/b ">PPTP, L2TP/IPSec, or IKEv2</b>) based on what
+                            your VPN provider supports.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter VPN Details</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <ul class="- topic/ul " id="unique_13_Connect_42_ul_g5j_dmp_m2c" nd:nd-id="ul_g5j_dmp_m2c">
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">VPN Name</b>: Any name to identify the VPN.</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Server Address</b>: Provided by your VPN provider.</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Username &amp; Password</b>: Your VPN credentials.</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">IPSec Key/Pre-Shared Key</b>: If required.</li>
+                            </ul>
+                            <fig class="- topic/fig " id="unique_13_Connect_42_fig_d4h_mgq_m2c" nd:nd-id="fig_d4h_mgq_m2c"><image align="center" class="- topic/image " dita-ot:image-width="738" dita-ot:image-height="1600" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076180.jpg" id="unique_13_Connect_42_image_qr5_kgq_m2c" nd:nd-id="image_qr5_kgq_m2c" placement="inline" scale="20"/></fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Save</b> to store the configuration.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Select the newly created VPN and tap <b class="+ topic/ph hi-d/b ">Connect</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">A VPN icon should appear in the status bar when connected.</cmd>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_13_Connect_42_fig_ozc_pgq_m2c" nd:nd-id="fig_ozc_pgq_m2c"><image class="- topic/image " dita-ot:image-width="738" dita-ot:image-height="1600" href="file:/D:/Installation%20Guide%20for%20VPN/images/1000076181.jpg" id="unique_13_Connect_42_image_dml_pgq_m2c" nd:nd-id="image_dml_pgq_m2c" placement="inline" scale="20"/></fig>
+                </info>
+            </step>
+        </steps></taskbody>
+</task><task class="- topic/topic task/task " id="unique_14" topicrefclass="- map/topicref " nd:nd-id="configure_vpn_manually_on_iphone_ios_0" oid="configure_vpn_manually_on_iphone_ios_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Configure VPN Manually on iPhone (iOS)</ph></title>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context "/>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Open VPN Settings</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_14_Connect_42_substeps_tvx_gyp_m2c" nd:nd-id="substeps_tvx_gyp_m2c">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Go to <b class="+ topic/ph hi-d/b ">Settings</b> on your iPhone.</cmd>
+                        <info class="- topic/itemgroup task/info "><image align="center" class="- topic/image " dita-ot:image-width="1320" dita-ot:image-height="2868" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_170.png" id="unique_14_Connect_42_image_m2q_cfq_m2c" nd:nd-id="image_m2q_cfq_m2c" placement="inline" scale="10"/></info>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">General</b> and then select <b class="+ topic/ph hi-d/b ">VPN &amp; Device
+                            Management</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">VPN</b> and then <b class="+ topic/ph hi-d/b ">Add VPN Configuration</b>.</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <fig class="- topic/fig " id="unique_14_Connect_42_fig_pn1_52q_m2c" nd:nd-id="fig_pn1_52q_m2c"><image align="center" class="- topic/image " dita-ot:image-width="1320" dita-ot:image-height="2868" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_083.png" id="unique_14_Connect_42_image_er3_52q_m2c" nd:nd-id="image_er3_52q_m2c" placement="inline" scale="10"/></fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Enter the following information:</cmd>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Type</b> and choose <b class="+ topic/ph hi-d/b ">L2TP, IKEv2, or IPSec</b> (as provided by
+                            your VPN service).</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Enter VPN Details</cmd>
+                        <info class="- topic/itemgroup task/info ">
+                            <ul class="- topic/ul " id="unique_14_Connect_42_ul_qh2_tqp_m2c" nd:nd-id="ul_qh2_tqp_m2c">
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Server</b>: Enter the VPN server address (provided by your
+                                    VPN provider).</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Remote ID</b>: Enter the identifier given by your provider
+                                    (for IKEv2).</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Username &amp; Password</b>: Use your VPN account
+                                    credentials.</li>
+                                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Shared Secret</b>: Enter the key (if required for
+                                    L2TP/IPSec).</li>
+                            </ul>
+                        </info>
+                        <info class="- topic/itemgroup task/info ">
+                            <fig class="- topic/fig " id="unique_14_Connect_42_fig_lhs_x2q_m2c" nd:nd-id="fig_lhs_x2q_m2c"><image align="center" class="- topic/image " dita-ot:image-width="1320" dita-ot:image-height="2868" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_108.png" id="unique_14_Connect_42_image_jhd_y2q_m2c" nd:nd-id="image_jhd_y2q_m2c" placement="inline" scale="10"/></fig>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Save and Connect</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_14_Connect_42_substeps_zbz_byp_m2c" nd:nd-id="substeps_zbz_byp_m2c">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Tap <b class="+ topic/ph hi-d/b ">Done</b> to save the configuration.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Toggle <b class="+ topic/ph hi-d/b ">VPN ON</b> to connect.</cmd>
+                        <stepresult class="- topic/itemgroup task/stepresult ">You should now see a VPN icon in the status bar when
+                            connected.</stepresult>
+                    </substep>
+                </substeps>
+                <info class="- topic/itemgroup task/info ">
+                    <fig class="- topic/fig " id="unique_14_Connect_42_fig_h2x_z2q_m2c" nd:nd-id="fig_h2x_z2q_m2c"><image align="center" class="- topic/image " dita-ot:image-width="1320" dita-ot:image-height="2868" href="file:/D:/Installation%20Guide%20for%20VPN/images/Image_20250225_161547_140.png" id="unique_14_Connect_42_image_id4_1fq_m2c" nd:nd-id="image_id4_1fq_m2c" placement="inline" scale="10"/></fig>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task></task><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_15" topicrefclass="- map/topicref " nd:nd-id="verifying_the_vpn_connection" oid="verifying_the_vpn_connection" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Verifying the VPN Connection</ph></title>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "> the VPN Connection (All Devices)<ol class="- topic/ol " id="unique_15_Connect_42_ol_nfs_3xn_m2c" nd:nd-id="ol_nfs_3xn_m2c">
+                <li class="- topic/li ">Check the VPN Status<ul class="- topic/ul " id="unique_15_Connect_42_ul_ofs_3xn_m2c" nd:nd-id="ul_ofs_3xn_m2c">
+                        <li class="- topic/li ">Windows: <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:1;8:51" xtrf="file:/D:/Installation%20Guide%20for%20VPN/verifying_the_vpn_connection.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Network &amp; Internet</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">VPN</uicontrol></menucascade> Check if it says "Connected."</li>
+                        <li class="- topic/li ">macOS: <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:2;13:49" xtrf="file:/D:/Installation%20Guide%20for%20VPN/verifying_the_vpn_connection.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">System Settings </uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "> Network</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">VPN</uicontrol></menucascade> Check if it says "Connected."</li>
+                        <li class="- topic/li ">Android:<menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:3;18:50" xtrf="file:/D:/Installation%20Guide%20for%20VPN/verifying_the_vpn_connection.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">Network &amp; Internet</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">VPN</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol "/></menucascade> Ensure it says "Connected."</li>
+                        <li class="- topic/li ">iPhone: <menucascade class="+ topic/ph ui-d/menucascade " xtrc="menucascade:4;24:50" xtrf="file:/D:/Installation%20Guide%20for%20VPN/verifying_the_vpn_connection.dita"><uicontrol class="+ topic/ph ui-d/uicontrol ">Settings</uicontrol><uicontrol class="+ topic/ph ui-d/uicontrol ">VPN</uicontrol></menucascade>  Ensure it shows "Connected."</li>
+                    </ul></li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Check Your IP Address</b></p>
+                    <ul class="- topic/ul " id="unique_15_Connect_42_ul_pfs_3xn_m2c" nd:nd-id="ul_pfs_3xn_m2c">
+                        <li class="- topic/li ">Open a web browser and visit <xref class="- topic/xref " format="html" href="https://www.whatismyip.com/" scope="external"><?ditaot usertext?>https://www.whatismyip.com/</xref>.</li>
+                        <li class="- topic/li ">If the IP address matches your VPN server’s location, the VPN is
+                            working.</li>
+                    </ul>
+                </li>
+                <li class="- topic/li ">
+                    <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Check for DNS Leaks (Optional)</b></p>
+                    <ul class="- topic/ul " id="unique_15_Connect_42_ul_qfs_3xn_m2c" nd:nd-id="ul_qfs_3xn_m2c">
+                        <li class="- topic/li ">Visit <xref class="- topic/xref " format="html" href="https://www.dnsleaktest.com/" scope="external"><?ditaot usertext?>https://www.dnsleaktest.com/</xref> and run the
+                            test.</li>
+                        <li class="- topic/li ">If your ISP’s name does not appear in the results, your VPN is
+                            secure.</li>
+                    </ul>
+                </li>
+            </ol></p>
+    </conbody>
+</concept><troubleshooting break-before="true" is-chapter="true" class="- topic/topic troubleshooting/troubleshooting " id="unique_16" topicrefclass="- map/topicref " nd:nd-id="common_troubleshooting_issues" oid="common_troubleshooting_issues" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Common Troubleshooting Issues </ph></title>
+    <troublebody class="- topic/body troubleshooting/troublebody "><troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_16_Connect_42_cause_otw_ht3_m2c" nd:nd-id="cause_otw_ht3_m2c">
+                <title class="- topic/title ">Cause</title>
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b "> VPN Not Connecting</b></p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_16_Connect_42_remedy_ah3_jt3_m2c" nd:nd-id="remedy_ah3_jt3_m2c">
+                <title class="- topic/title ">Remedy</title>
+                <steps class="- topic/ol task/steps " id="unique_16_Connect_42_steps_ob3_kt3_m2c" nd:nd-id="steps_ob3_kt3_m2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check your <b class="+ topic/ph hi-d/b ">internet connection</b> (try browsing without VPN).</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check internet connection.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Try a different server or protocol (e.g., switch from UDP to TCP in
+                            OpenVPN).</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Disable firewall/antivirus temporarily and retry.</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution ">
+            <cause class="- topic/section troubleshooting/cause " id="unique_16_Connect_42_cause_cgr_rt3_m2c" nd:nd-id="cause_cgr_rt3_m2c">
+                <title class="- topic/title ">Cause</title>
+                <p class="- topic/p "><b class="+ topic/ph hi-d/b ">VPN Keeps Disconnecting</b></p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " id="unique_16_Connect_42_remedy_yns_tt3_m2c" nd:nd-id="remedy_yns_tt3_m2c">
+                <title class="- topic/title ">Remedy</title>
+                <steps class="- topic/ol task/steps " id="unique_16_Connect_42_steps_o1j_5t3_m2c" nd:nd-id="steps_o1j_5t3_m2c">
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Enable "Kill Switch" and "Auto Reconnect" in settings.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Try a different protocol or server.</cmd>
+                    </step>
+                    <step class="- topic/li task/step ">
+                        <cmd class="- topic/ph task/cmd ">Check for ISP interference (some block VPN traffic).</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution></troublebody>
+</troubleshooting></map>

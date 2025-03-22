@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="configure_vpn_settings_verify">
+    <title>Configure VPN settings/verify</title>
+    <taskbody><context>
+        <p>Configuring a VPN For Windows</p>
+    </context>
+        <steps>
+            <step>
+                <cmd>Open VPN Settings:</cmd>
+                <info>
+                    <ul id="ul_xnw_byn_m2c">
+                        <li>Go to<menucascade>
+                                <uicontrol>Settings </uicontrol>
+                                <uicontrol> Network &amp; Internet</uicontrol>
+                                <uicontrol> VPN</uicontrol>
+                                <uicontrol>Add a VPN connection.</uicontrol>
+                            </menucascade>
+                        </li>
+                    </ul>
+                    <fig id="fig_v3w_mdq_m2c">
+                        <image href="images/1.png" placement="break" id="image_v4h_ndq_m2c"
+                            scale="50" align="center"/>
+                    </fig>
+                    <image href="images/2.png" placement="break" id="image_kf3_rdq_m2c" scale="50"
+                        align="center"/>
+                </info>
+            </step>
+            <step>
+                <cmd>Enter VPN Details:</cmd>
+                <info>
+                    <ul id="ul_ynw_byn_m2c">
+                        <li>VPN Provider: Windows (Built-in).</li>
+                        <li>Connection Name: (Any name).</li>
+                        <li>Server Address: (From your VPN provider).</li>
+                        <li>VPN Type: Choose <b>L2TP/IPSec, PPTP, or IKEv2/IPSec</b>.</li>
+                        <li>Sign-in Info: Enter <b>Username &amp; Password</b>.</li>
+                    </ul>
+                    <fig id="fig_db2_zdq_m2c">
+                        <image href="images/3.png" placement="break" id="image_qns_zdq_m2c"
+                            scale="50" align="center"/>
+                    </fig>
+                </info>
+            </step>
+            <step>
+                <cmd>Save and Connect:</cmd>
+                <info>
+                    <ul id="ul_znw_byn_m2c">
+                        <li>Click <menucascade>
+                                <uicontrol>Save</uicontrol>
+                                <uicontrol>Select the VPN </uicontrol>
+                                <uicontrol>Click Connect.</uicontrol>
+                            </menucascade><image href="images/4.png" placement="break"
+                                id="image_kkd_j2q_m2c" align="center"/>
+                        </li>
+                    </ul>
+                </info>
+            </step>
+        </steps></taskbody>
+</task>

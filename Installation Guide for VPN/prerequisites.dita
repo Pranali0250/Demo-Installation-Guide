@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="prerequisites">
+    <title>Prerequisites</title>
+    <conbody>
+        <ol id="ol_wn4_jq3_m2c">
+            <li><b>Stable Internet Connection:</b> Required for downloading and configuring the
+                VPN.</li>
+            <li><b>Compatible Device:</b> VPN software should support your operating system
+                (Windows, macOS, Linux, Android, iOS, Router).</li>
+            <li><b>VPN Subscription or Self-Hosted Server:</b> Choose a VPN provider (e.g., NordVPN,
+                ExpressVPN) or set up your own (OpenVPN, WireGuard).</li>
+            <li><b>Administrative Access:</b>  Needed to install software and change network
+                settings.</li>
+            <li><b>Firewall &amp; Security Configuration:</b>  Ensure your firewall allows VPN
+                connections.</li>
+            <li><b>Login Credentials or VPN Configuration File :</b> Provided by your VPN provider
+                or manually configured for self-hosted setups.</li>
+        </ol>
+    </conbody>
+</concept>
